@@ -1,0 +1,1302 @@
+prediction,ground_truth,text,lda_gamma,prediction_threshold,logit
+1,1,The kidneys and lungs maintain daily acid base balance ,25,0.5,0.9572392702102661
+1,0,Understanding this normal physiology allows us to appreciate abnormalities ,25,0.5,0.9968290328979492
+0,0,This discussion refers to bicarbonate rather than total CO content  as we measure total CO content as a surrogate for bicarbonate ,25,0.5,1.034860133586335e-06
+1,0,Bicarbonate and carbonic acid constitute the major buffer pair in body fluids ,25,0.5,0.9903115630149841
+0,0,Carbonic acid dissociates into hydrogen ion and bicarbonate with a dissociation constant of ,25,0.5,0.061580657958984375
+0,0,× ,25,0.5,3.4891540963144507e-06
+0,0,Carbonic acid also maintains an equilibrium with HO and CO ,25,0.5,0.00025773048400878906
+1,0,We usually describe dissociation constants and hydrogen ion concentrations as negative logarithms ,25,0.5,0.9173730611801147
+0,0,Thus  the negative logarithm of the dissociation constant equals ,25,0.5,0.003701716661453247
+0,0,This value is called the pKa ,25,0.5,2.70647433353588e-05
+1,0,Normal hydrogen ion concentration equals  nanoequivalentsliter  corresponding to a pH of ,25,0.5,0.9844950437545776
+0,0,The familiar Henderson Hasselbalch equation derives from these facts ,25,0.5,0.49099284410476685
+1,0,Carbonic acid concentration is proportional to the partial pressure of carbon dioxide pCO in the blood ,25,0.5,0.5019636750221252
+0,0,Multiplying the pCO by a constant ,25,0.5,9.705243428470567e-05
+0,0,estimates the carbonic acid concentration  giving the useful form of the above equation ,25,0.5,0.3609715700149536
+0,0,Changes in hydrogen ion concentration pH result from changes in either bicarbonate or carbon dioxide ,25,0.5,0.13278761506080627
+0,0,Measurement of total CO content can help us explain acid base disorders when the pH and pCO are known ,25,0.5,0.4282510280609131
+1,0,Furthermore  since we often measure total CO content as part of automated chemistry determinations  this measurement can provide the first clue to acid base disturbances ,25,0.5,0.9978864192962646
+0,0,We produce approximately  mEqkg daily of hydrogen ions derived from metabolism of proteins primarily ,25,0.5,0.032187193632125854
+0,0,The kidney normally excretes this daily acid load ,25,0.5,0.0107002854347229
+0,0,Failure of excretion forces the reaction of H+ and HCO  resulting in a decrease of bicarbonate concentration ,25,0.5,0.0010358691215515137
+1,0,Bicarbonate reabsorption occurs primarily in the proximal tubule ,25,0.5,0.9997456073760986
+0,0,Carbonic anhydrase controls this absorption ,25,0.5,4.929018177790567e-05
+1,0,The patient's volume status has a major influence on absorption  since sodium is reabsorbed along with this bicarbonate ,25,0.5,0.8374027013778687
+0,0,Thus  volume contraction stimulates both sodium and bicarbonate reabsorption ,25,0.5,0.42867010831832886
+0,0,This results in an increased total CO content ,25,0.5,6.756150105502456e-05
+0,0,Likewise  volume expansion can lead to a mild decrease in total CO content ,25,0.5,0.00018578767776489258
+1,0,Hydrogen ion concentration pH is another major determinant of bicarbonate reabsorption ,25,0.5,0.8383623957633972
+1,0,Thus  the kidney will respond to changes in ventilation pCO with compensatory changes in bicarbonate reabsorption ,25,0.5,0.9556677341461182
+0,0,For example  chronic hypoventilation  pCO causes a decreased pH ,25,0.5,0.04012063145637512
+0,0,This decreased pH stimulates bicarbonate reabsorption  thus the patient will have an increased total CO content ,25,0.5,0.007225483655929565
+1,1,Interpersonal relationships refer to reciprocal social and emotional interactions between the patient and other persons in the environment ,25,0.5,0.9916818141937256
+1,0,Almost every mental disorder is accompanied by problems in this respect ,25,0.5,0.9941884279251099
+1,0,Frequently a basic cause of conflict with other people is the presence of some psychiatric disorder ,25,0.5,0.904557466506958
+0,0,Major areas in which these conflicts may occur include the following relations ,25,0.5,0.014735549688339233
+0,0,  Family  Social  Work  Religious  Sexual ,25,0.5,0.2199988067150116
+1,1,The character of flank pain is very helpful in determining the cause ,25,0.5,0.9180818796157837
+0,0,Important characteristics include local or referred pain  acute or chronic or recurrent pain  degree of severity  and duration ,25,0.5,0.38375768065452576
+1,0,Associated symptoms such as fever  nausea and vomiting  and atrial fibrillation often help in making the correct diagnosis ,25,0.5,0.6291998624801636
+1,0,Flank pain that radiates to the ipsilateral testicle is usually caused by proximal ureteral or renal pelvic obstruction due to the common innervation of the testicle and the renal pelvis T ,25,0.5,0.9999659061431885
+0,0,This pain usually originates in the posterior part of the flank and radiates to the testicle of the male or the labia of the female ,25,0.5,0.13976284861564636
+0,0,The pain becomes lower and more anterior in the flank when the obstruction occurs in the middle third of the ureter ,25,0.5,0.020770490169525146
+1,0,The pain is still lower  radiates to the scrotal skin rather than the testicle  and is associated with voiding symptoms such as urinary frequency and urgency when the obstruction occurs at the level of the ureterovesical junction ,25,0.5,0.9752441644668579
+0,0,The degree of severity of the pain is directly related to the acuteness of the obstruction rather than the degree of obstruction ,25,0.5,0.000265270471572876
+0,0,Therefore  a stone that passes into the ureter and suddenly becomes lodged in one position usually causes extremely severe pain ,25,0.5,0.020756930112838745
+1,0,But flank pain can be very mild or absent in the presence of very severe but chronic obstruction ,25,0.5,0.61924809217453
+1,0,Mild and chronic flank pain associated with severe ureteral obstruction can produce irreversible renal damage ,25,0.5,0.9849547147750854
+0,0,A stone passing through the ureter will often cause severe but intermittent pain ,25,0.5,0.014366954565048218
+1,0,The intermittent pain is related to obstruction produced when the stone becomes lodged in the ureter ,25,0.5,0.7223786115646362
+0,0,Therefore  each episode of pain is likely to be associated with a stone becoming lodged in a new and more distal position in the ureter ,25,0.5,0.00018146634101867676
+0,0,Flank pain is often associated with less specific symptoms including fever  nausea and vomiting  and tachycardia ,25,0.5,0.27473342418670654
+1,0,Fever suggests infection proximal to the ureteral obstruction ,25,0.5,0.7675455212593079
+1,0,Flank pain associated with fever requires a prompt diagnosis of ureteral obstruction and relief of the obstruction because infection proximal to the obstruction causes much more rapid renal damage than occurs with obstruction in the absence of infection ,25,0.5,0.8822989463806152
+0,0,Also  the patient is susceptible to septicemia in the presence of infection proximal to a ureteral obstruction ,25,0.5,0.0159643292427063
+1,0,Gross or microscopic hematuria helps to confirm a urinary cause of the pain ,25,0.5,0.9395189881324768
+0,0,Hematuria is occasionally absent with acute ureteral obstruction  however  and is often absent with chronic obstruction ,25,0.5,0.020888179540634155
+0,0,Although ureteral stone is the most common cause of flank pain  many other causes should be considered see Table ,25,0.5,0.29348522424697876
+0,0,Flank pain resulting from acute ureteral obstruction can also be caused by blood clots or sloughed renal papillae passing through the ureter ,25,0.5,0.27649009227752686
+1,0,Blood clots can be produced by many pathologic lesions of the kidney  tumors being the most common cause ,25,0.5,0.8812580108642578
+0,0,Renal papillary necrosis should be considered in patients with a history of analgesic abuse or diabetes mellitus ,25,0.5,0.33256807923316956
+0,0,Flank pain caused by chronic ureteral obstruction is generally much less severe ,25,0.5,0.20137038826942444
+1,0,Occasionally  congenital anomalies such as ureteropelvic junction obstruction produce flank pain associated with a diuresis after oral intake of a large volume of fluid ,25,0.5,0.9019265174865723
+1,0,Bilateral chronic ureteral obstruction or ureteral obstruction of a solitary kidney can be associated with symptoms of renal failure such as apathy  lethargy  anorexia  muscle twitching  headache  hypertension  and poor growth of a child ,25,0.5,0.9875165224075317
+1,0,A dull or mild flank pain should make the clinician consider many possible causes including congenital ureteral obstruction  ureteral tumor or an extrinsic tumor compressing the ureter  acquired stricture of the ureter due to a previous operation or radiation therapy  retroperitoneal fibrosis  and a ureteral stone ,25,0.5,0.9902490377426147
+1,0,Flank pain caused by renal inflammation generally is not as sudden in onset or as severe as pain caused by acute ureteral obstruction ,25,0.5,0.6438977718353271
+1,0,Renal inflammation usually produces localized pain and is associated with other manifestations of infection such as fever  leukocytosis  and bacteriuria ,25,0.5,0.7934056520462036
+1,0,Flank pain can be caused by different types of renal tumors  but pain is not the most common presenting symptom  and when pain is present  it often is associated with other symptoms ,25,0.5,0.9214353561401367
+1,0,Hematuria is the most common symptom seen in tumors presenting in adults  an abdominal mass is the most common presenting symptom of Wilms tumor in childhood ,25,0.5,0.9912521839141846
+1,0,Uncommon causes of flank pain include renal trauma  renal infarction  and vesicoureteral reflux even in the absence of infection ,25,0.5,0.9811124205589294
+1,0,Renal infarction should be considered in patients with atrial fibrillation or a recent myocardial infarction ,25,0.5,0.6776522397994995
+1,0,Vesicoureteral reflux occasionally causes mild flank pain due to distention of the ureter and renal pelvis when the reflux occurs while voiding ,25,0.5,0.9914689064025879
+1,0,A patient should be suspected of being an analgesic abuser when he or she presents with a history of acute severe flank pain  uric acid stones  previous reactions to contrast media  and a residence a great distance away ,25,0.5,0.9791768789291382
+0,0,The physician should not be fooled by hematuria because narcotic addicts find ways to place blood in their urine specimens ,25,0.5,0.0024071037769317627
+0,0,Extraurinary diseases of the abdomen and chest can also cause flank pain ,25,0.5,0.2615790367126465
+0,0,These diseases produce pain less characteristic of the typical renal colic seen with acute ureteral obstruction ,25,0.5,0.010050684213638306
+1,0,Nevertheless  this vague  dull  mild flank pain is similar to the pain seen with chronic ureteral obstruction  making the differential diagnosis unclear ,25,0.5,0.7528048753738403
+1,0,The correct diagnosis is made by thinking of all the diseases that have been discussed  considering the associated symptoms  physical examination  urinalysis  and performing carefully selected laboratory tests and radiographic studies ,25,0.5,0.9992152452468872
+0,1,Albumin makes up more than half of the total protein present in serum ,25,0.5,0.08431640267372131
+1,0,Approximately  to  of the body's total albumin pool is found in the intravascular compartment ,25,0.5,0.8507448434829712
+0,0,The remainder is extravascular and is located in the interstitial spaces  mainly of the muscles and skin ,25,0.5,0.02554813027381897
+0,0,Albumin is also found in small amounts in a variety of body tissue fluids such as sweat  tears  gastric juice  and bile ,25,0.5,0.2938729524612427
+0,0,Albumin does not diffuse freely through intact vascular endothelium ,25,0.5,0.020126432180404663
+1,0,Hence  it is the major protein providing the critical colloid osmotic or oncotic pressure that regulates passage of water and diffusable solutes through the capillaries ,25,0.5,0.991267204284668
+0,0,Albumin accounts for  of the colloid osmotic pressure ,25,0.5,0.0066769421100616455
+0,0,It exerts a greater osmotic force than can be accounted for solely on the basis of the number of molecules dissolved in the plasma  and for this reason it cannot be completely replaced by inert substances such as dextran ,25,0.5,0.03642621636390686
+1,0,The reason is that albumin has a negative charge at normal blood pH and attracts and retains cations  especially Na+ in the vascular compartment ,25,0.5,0.9434322714805603
+0,0,This is called the Gibbs Donnan effect ,25,0.5,8.613888553554716e-07
+0,0,Albumin also binds a small number of Cl ions that increase its negative charge and ability to retain Na+ ions inside the capillaries ,25,0.5,0.3207537829875946
+0,0,This enhanced osmotic force causes the colloid osmotic pressure to be  greater than it would be by protein concentration alone ,25,0.5,0.00021952390670776367
+1,0,Albumin serves in the transport of bilirubin  hormones  metals  vitamins  and drugs ,25,0.5,0.9992637634277344
+1,0,It has an important role in fat metabolism by binding fatty acids and keeping them in a soluble form in the plasma ,25,0.5,0.6128287315368652
+1,0,This is one reason why hyperlipemia occurs in clinical situations of hypoalbuminemia ,25,0.5,0.6834585070610046
+0,0,The binding of hormones by albumin regulates the amount of free hormone available at any time ,25,0.5,0.4476718306541443
+0,0,Because of its negative charge  albumin is also able to furnish some of the anions needed to balance the cations of the plasma ,25,0.5,0.002510756254196167
+0,0,Albumin is synthesized in the liver ,25,0.5,0.2974778115749359
+1,0,The rate of synthesis is constant in normal individuals at  to  mgkgday  resulting in the production of  to  g of albumin daily in a  kg man ,25,0.5,0.8262442946434021
+0,0,The liver produces albumin at less than half of its capacity ,25,0.5,0.0007660090923309326
+1,0,The primary factors affecting albumin synthesis include protein and amino acid nutrition  colloidal osmotic pressure  the action of certain hormones  and disease states ,25,0.5,0.9978166818618774
+0,0,Fasting or a protein deficient diet cause a decrease in albumin synthesis as long as the deficiency state is maintained ,25,0.5,0.005373924970626831
+1,0,In the normal individual  the liver increases albumin synthesis in response to the increased availability of amino acids provided by the portal blood following each protein containing meal ,25,0.5,0.9894974827766418
+1,0,A decrease in extravascular colloidal pressure serves as a stimulus for albumin synthesis and is thought to act within the liver ,25,0.5,0.8859437704086304
+0,0,Thyroid hormone  corticosteroids  growth hormone  and insulin all can increase albumin synthesis ,25,0.5,0.03675574064254761
+1,0,The main site of albumin degradation is not known ,25,0.5,0.8862414360046387
+1,0,Albumin appears to be catabolized in locations that are capable of rapid equilibration with the bloodstream ,25,0.5,0.9909275770187378
+0,0,It is degraded into amino acids that are utilized for energy requirements of the cell or secreted into the pool of extracellular amino acids ,25,0.5,0.24516081809997559
+1,0,The globulin fraction includes hundreds of serum proteins including carrier proteins  enzymes  complement  and immunoglobulins ,25,0.5,0.9997939467430115
+0,0,Most of these are synthesized in the liver  although the immunoglobulins are synthesized by plasma cells ,25,0.5,0.09143075346946716
+0,0,Globulins are divided into four groups by electrophoresis ,25,0.5,0.004341781139373779
+0,0,The four fractions are a  a  b and g  depending on their migratory pattern between the anode and the cathode ,25,0.5,0.22183096408843994
+0,0,Increases in the globulin fraction usually result from an increase in immunoglobulins  but there can be an increase in other proteins in pathologic states that have characteristic electrophoretic patterns see Figures ,25,0.5,0.04472735524177551
+1,0,Malnutrition and congenital immune deficiency can cause a decrease in total globulins due to decreased synthesis  and nephrotic syndrome can cause a decrease due to protein loss through the kidney ,25,0.5,0.9987210035324097
+0,0,Immunoglobulins i e   antibodies migrate mainly in the g region  but some migrate in the b and a regions as well ,25,0.5,0.0005173087120056152
+0,0,Each immunoglobulin molecule is composed of two heavy chains that are of the same class and two light chains that are also alike ,25,0.5,0.003082364797592163
+1,0,Each heavy chain has a variable region in which amino acid substitutes make each chain different from the next and a constant region in which there are very few amino acid differences from the constant region of any other immunoglobulin of that heavy chain type ,25,0.5,0.6446049213409424
+0,0,Light chains are of either l or k type and have constant and variable regions ,25,0.5,0.05913645029067993
+1,0,The different kinds of immunoglobulins are named by capital letters that correspond to their heavy chain type  IgG  IgA  IgM  IgE  and IgD ,25,0.5,0.9000637531280518
+0,0,Three fourths of the immunoglobulin level in normal serum is of the IgG type ,25,0.5,0.013193875551223755
+0,0,Many antibodies to bacteria and viruses are IgG ,25,0.5,0.0061609745025634766
+1,0,The normal collection of IgG molecules is made up of minute amounts of different IgG antibodies produced from diverse clones of plasma cells  thus it is polyclonal ,25,0.5,0.9992096424102783
+0,0,If a single clone escapes its normal controls  it can reproduce excessively and synthesize an excess of a monoclonal protein with a single heavy chain class and light chain type ,25,0.5,0.038201093673706055
+1,1,There are four major circumstances in which an eating behavior can be considered a pica ,25,0.5,0.9990051984786987
+1,0,These circumstances are disparate enough to reduce the likelihood that one underlying abnormality accounts for all pica ,25,0.5,0.8480589389801025
+1,0,In a very general sense  the disorder originates from either behavioral or biochemical sources ,25,0.5,0.9688672423362732
+0,0,The somewhat loose use of the term pica  though  makes it difficult to generalize and contributes to the lack of an all embracing hypothesis ,25,0.5,0.015916138887405396
+0,0,A mentally disturbed or retarded person may impulsively ingest any available object  suffering the medical consequences thereof ,25,0.5,0.2706090211868286
+0,0,Persons with an obsessive personality disorder may fixate on an ingestion activity ,25,0.5,0.2192637324333191
+1,0,These persons have behavioral abnormalities in which the ingestion activity pica is more the choice of a disordered mind than a response to a biochemical deficiency ,25,0.5,0.9321680068969727
+0,0,The mouthing activity of children is at least in part a learning behavior and may not represent a pica ,25,0.5,0.2149094045162201
+1,0,Children seem to derive as much tactile information from inserting objects into the mouth as touching with the fingers ,25,0.5,0.9691423177719116
+0,0,This discovery process  unfortunately  can have adverse medical consequences  highlighted by the problem of lead poisoning ,25,0.5,0.037211835384368896
+1,0,Ingestion of paint chips or plaster may originate as an innocent mouthing activity but develop into a true pica  perhaps due to the semisweet taste of lead based paints ,25,0.5,0.9588252305984497
+0,0,Some investigators believe that a pica in childhood has the same significance as in adults ,25,0.5,0.005309343338012695
+1,0,They point to the fact that many milk fed children become iron deficient and contend that compulsive drinking of milk or eating of paint chips  dirt  and so on  reflects the same poorly understood craving as in adults ,25,0.5,0.9825010299682617
+0,0,A third important circumstance in which a pica is found is the compulsive ingestion of dirt or clay  as practiced in the rural South or by migrants from that region ,25,0.5,0.42288443446159363
+1,0,This geophagia seems to have originated as an ethnic cultural habit passed down from mother to child ,25,0.5,0.9975674152374268
+0,0,Children of both sexes learn the behavior as toddlers and generally outgrow the activity a few years later ,25,0.5,1.9731243810383603e-05
+0,0,Daughters  however  are re introduced to the behavior years later  often during a first pregnancy ,25,0.5,0.036174654960632324
+1,0,Pregnancy is a time when many women are iron deficient  but the behavior seems to be widespread enough for a deficiency not to be the complete explanation ,25,0.5,0.9571709036827087
+0,0,Geophagia manages to persist even with migration ,25,0.5,0.005712717771530151
+1,0,Older black women in the Midwest recall being sent shoeboxes filled with clay from relatives in the deep South ,25,0.5,0.7888310551643372
+1,0,In fact  clay from certain sites was highly regarded for its taste  and clay from substitute sites was quickly spotted ,25,0.5,0.8538930416107178
+0,0,In more recent years  geophagia may have been replaced by amylophagia starch eating  which is considered more sanitary ,25,0.5,1.7343219951726496e-05
+1,0,Although many women who have this pica may be nutritionally deficient  the bulk of the evidence suggests that an ethnic cultural practice is the explanation Vermeer and Frate ,25,0.5,0.9996241927146912
+1,0,The majority of pica seen by physicians in Western countries can be traced to iron deficiency  with or without anemia ,25,0.5,0.9984956979751587
+0,0,In fact  a pica may be detected in as many as  of all persons with iron deficiency ,25,0.5,0.0725659728050232
+1,0,Crosby  is the most prominent proponent of the idea that a pica is a manifestation of a lack of iron stores and not of the anemia itself ,25,0.5,0.9293641448020935
+0,0,He points out that pica is not common in other anemias ,25,0.5,0.0006977617740631104
+0,0,The pica also disappears  in most cases  once iron replacement begins and long before the anemia is corrected ,25,0.5,0.11504146456718445
+1,0,He wryly notes that in most cases the choice of material ingested rarely is a good source of the missing mineral ,25,0.5,0.6272291541099548
+0,0,For a pica to occur  it is not important how the iron deficiency develops ,25,0.5,0.00810539722442627
+1,0,Hence  a pica may be seen whether the person has a chronic gastrointestinal bleed  menorrhagia  inadequate diet  or any of the other causes of iron loss ,25,0.5,0.9718602895736694
+1,0,There is no good explanation  however  for why an eating behavior is a manifestation of iron deficiency ,25,0.5,0.7832279205322266
+1,0,It is true that the mineral is found in some important enzyme systems involving taste and digestion ,25,0.5,0.9900178909301758
+0,0,In some way  perhaps deficiency of iron in those enzymes could induce an iron seeking behavior ,25,0.5,1.4464652849710546e-05
+1,0,An entirely different explanation relates to the observation that certain lesions of the brain may result in hyperphagia ,25,0.5,0.9846582412719727
+0,0,It has been noted that those sites are high in iron content ,25,0.5,3.573179856175557e-05
+0,0,The extrapolation  then  is that lack of iron in those sites induces hyperphagia again  iron seeking  of which the pica is a manifestation ,25,0.5,0.40411972999572754
+0,0,This hypothesis has never been put to experimental trial ,25,0.5,0.0023422837257385254
+1,0,Pica is not necessarily a manifestation of iron deficiency only ,25,0.5,0.607914924621582
+0,0,Zinc deficiency has also been noted as a cause of pica  and it is not unreasonable to suspect that other minerals may be implicated ,25,0.5,0.014932304620742798
+1,1,These in vitro teststhe activated partial thromboplastin time aPTT  prothrombin time PT  and thrombin time TTmeasure the time elapsed from activation of the coagulation cascade Figure ,25,0.5,0.9259200096130371
+0,0,at different points to the generation of fibrin ,25,0.5,0.09928330779075623
+0,0,The aPTT measures the time necessary to generate fibrin from initiation of the intrinsic pathway Figure ,25,0.5,0.26052772998809814
+1,0,Activation of factor XII is accomplished with an external agent e g   kaolin capable of activating factor XII without activating factor VII ,25,0.5,0.8701721429824829
+0,0,Since platelet factors are necessary for the cascade to function normally  the test is performed in the presence of a phospholipid emulsion that takes the place of these factors ,25,0.5,0.06061527132987976
+1,0,The classic partial thromboplastin time depends on contact with a glass tube for activation ,25,0.5,0.9940893650054932
+0,0,Since this is considered a difficult variable to control  the activated test uses an external source of activation ,25,0.5,0.004000663757324219
+0,0,Citrated plasma  an activating agent  and phospholipid are added together and incubated at °C ,25,0.5,0.002176225185394287
+1,0,Calcium is added  and the time necessary for the clumping of kaolin is measured ,25,0.5,0.960157036781311
+0,0,The normal time is usually reported as less than  to  seconds depending on the technique used ,25,0.5,0.00609859824180603
+0,0,In fact  there is a normal range of about  seconds e g    to   and decreased values short may also be abnormal ,25,0.5,0.0001430213451385498
+1,0,This test is abnormal in the presence of reduced quantities of factors XII  IX  XI  VIII  X  V  prothrombin  and fibrinogen all integral parts of the intrinsic and common pathway ,25,0.5,0.999975323677063
+0,0,It is usually prolonged if a patient has less than approximately  normal activity ,25,0.5,0.0018107593059539795
+0,0,It can also be abnormal in the presence of a circulating inhibitor to any of the intrinsic pathway factors ,25,0.5,0.0028412938117980957
+1,0,The differentiation of inhibitors from factor depletion is important and can best be accomplished by a mixing study in which patient and normal plasma are combined in a   ratio and the test is repeated on the mixed sample ,25,0.5,0.998132586479187
+0,0,If the abnormal value is corrected completely  the problem is factor deficiency ,25,0.5,0.01310640573501587
+0,0,If the result does not change or the abnormality is corrected only partially  an inhibitor is present ,25,0.5,0.021336406469345093
+0,0,This difference stems from the above mentioned fact that the aPTT will be normal in the presence of  normal activity ,25,0.5,0.05061343312263489
+1,0,The aPTT is a good screening test for inherited or acquired factor deficiencies ,25,0.5,0.9930746555328369
+1,0,Inherited disorders including classic hemophilia A factor VIII deficiency and hemophilia B factor IX deficiency  or Christmas disease are well known diseases in which the aPTT is prolonged ,25,0.5,0.9952206611633301
+0,0,Other intrinsic and common pathway factors may also be congenitally absent ,25,0.5,3.248995926696807e-05
+1,0,These conditions are rare but have been described for all factors ,25,0.5,0.9564543962478638
+0,0,A number of kindreds with abnormalities of factor XII activation have been described ,25,0.5,0.04911625385284424
+0,0,They are usually associated with a prolonged aPTT without clinical signs of bleeding ,25,0.5,0.0004366636276245117
+0,0,Acquired factor deficiency is common ,25,0.5,0.32964378595352173
+0,0,Vitamin K deficiency  liver dysfunction  and iatrogenic anticoagulation with warfarin are most common ,25,0.5,0.008377879858016968
+0,0,Factor depletion may also occur in the setting of disseminated intravascular coagulation DIC  prolonged bleeding  and massive transfusion ,25,0.5,0.05877190828323364
+1,0,A prolonged aPTT that cannot be completely normalized with the addition of normal plasma can be explained only by the presence of a circulating inhibitor of coagulation ,25,0.5,0.9121698141098022
+0,0,The presence of these inhibitors is almost always acquired  and their exact nature is not always apparent ,25,0.5,0.36596524715423584
+0,0,From a clinical point of view  the most common inhibitors should be considered antithrombins ,25,0.5,0.000765383243560791
+0,0,These compounds inhibit the activity of thrombin on the conversion of fibrinogen to fibrin Figure ,25,0.5,0.0007072091102600098
+1,0,The two most common inhibitors are heparin  which acts through the naturally occurring protein antithrombin III AT III  and fibrin degradation products FDP  formed by the action of plasmin on the fibrin clot and usually present in elevated concentrations in DIC and primary fibrinolysis ,25,0.5,0.9927887320518494
+0,0,Other inhibitors appear to be antibodies ,25,0.5,1.0974959252507688e-07
+1,0,The easiest to understand is the antibody against factor VIII in patients with hemophilia A treated with factor VIII concentrate ,25,0.5,0.9964032173156738
+1,0,Inhibitors against other factors have been described with a variety of diseases that follow a variable course ,25,0.5,0.9701429605484009
+0,0,When characterized  they have been immunoglobulins ,25,0.5,0.00010545617260504514
+0,0,A particular problem may be seen in patients suffering from systemic lupus erythematosus ,25,0.5,0.008433312177658081
+0,0,These patients may present with a prolonged aPTT without evidence of bleeding ,25,0.5,0.00017261505126953125
+0,0,Some present with thrombosis ,25,0.5,5.352348307496868e-05
+1,0,The abnormality cannot be corrected with normal plasma and has been referred to as the lupus anticoagulant ,25,0.5,0.8795307278633118
+0,0,This phenomenon does not represent an in vivo problem with the coagulation cascade ,25,0.5,4.645723674912006e-05
+1,0,Rather  it is a laboratory abnormality caused by the presence of a serum constituent that interferes with the in vitro partial thromboplastin test ,25,0.5,0.5060825347900391
+0,0,Occasionally the reported value of the aPTT will be lower than normal ,25,0.5,1.8180635379394516e-05
+0,0,This shortened time may reflect the presence of increased levels of activated factors in context of a hypercoagulable state ,25,0.5,0.0014168024063110352
+0,0,It is seen in some patients in the early stages of DIC but should not be considered diagnostic for that entity ,25,0.5,0.24738112092018127
+1,0,The PT measures the time necessary to generate fibrin after activation of factor VII ,25,0.5,0.9431260824203491
+1,0,It measures the integrity of the extrinsic and common pathways factors VII  V  X  prothrombin  and fibrinogen ,25,0.5,0.9747331738471985
+1,0,Citrated plasma and an activating agent usually thromboplastin extracted from animal brain are incubated at °C ,25,0.5,0.9831533432006836
+0,0,The plasma is recalcified and the time is measured until fibrin filaments are observed ,25,0.5,0.09121423959732056
+0,0,Each laboratory has its own normal value  usually between  and  seconds ,25,0.5,0.0301075279712677
+0,0,As with the interpretation of a prolonged aPTT  a prolonged PT may reflect either factor deficiency or a circulating inhibitor of coagulation ,25,0.5,0.01290518045425415
+1,0,The distinction is made by repeating the test after a   mix with normal plasma ,25,0.5,0.6445297598838806
+0,0,The test is more sensitive than the aPTT for deficient levels of factors  and a relatively small drop in factor VII levels may prolong the PT ,25,0.5,8.705749496584758e-05
+1,0,Inherited deficiency of factor VII is a rare bleeding disorder characterized by a prolonged PT and a normal aPTT ,25,0.5,0.9999955892562866
+0,0,The PT completely corrects when mixed with normal plasma ,25,0.5,0.0007900893688201904
+1,0,Acquired deficiencies are usually related to liver disease  warfarin therapy  or depletion secondary to consumptive coagulopathy  severe bleeding  or massive transfusion ,25,0.5,0.9990825653076172
+0,0,Circulating inhibitors are most often directed at factor X or thrombin ,25,0.5,0.37998974323272705
+0,0,Most common are heparin or products of fibrinolysis ,25,0.5,0.14553648233413696
+0,0,In their presence the prolonged PT cannot be completely corrected to normal in a   mixing study ,25,0.5,0.022372007369995117
+1,0,This test measures the time necessary to drive the reaction of fibrinogen to fibrin in the presence of thrombin ,25,0.5,0.8489559888839722
+1,0,It measures the integrity of this reaction and isolates an abnormality to either a decrease in normal fibrinogen or an inhibitor to its activation ,25,0.5,0.6674970984458923
+0,0,Citrated plasma is incubated at °C and thrombin is added to the solution ,25,0.5,0.05231645703315735
+1,0,Time is measured from the addition of thrombin to the generation of fibrin filaments ,25,0.5,0.9944618940353394
+0,0,Calcium is unnecessary ,25,0.5,0.0002624690532684326
+1,0,Abnormalities can be explained in one of three ways  deficient fibrinogen <  mgdl  abnormal fibrinogen  or an inhibitor to the reaction ,25,0.5,0.9557825326919556
+0,0,As with other tests of the coagulation cascade  if a   mixing study normalizes the prolonged time  one is dealing with factor deficiency ,25,0.5,0.3822043836116791
+1,0,As it pertains to fibrinogen  however  one must distinguish a decrease in normal fibrinogen from the production of an abnormal fibrinogen dysfibrinogenemia ,25,0.5,0.5459949970245361
+1,0,Acquired deficiency of fibrinogen is usually due to a consumptive coagulopathy or  less often  severe liver disease ,25,0.5,0.8907256126403809
+1,0,Hereditary deficiencies exist  but with variable clinical presentations ,25,0.5,0.8025862574577332
+1,0,Afibrinogenemia is an often fatal childhood condition ,25,0.5,0.9974707365036011
+0,0,Abnormal fibrinogen dysfibrinogenemia can be acquired or inherited ,25,0.5,0.1805342435836792
+0,0,The acquired form is usually found in association with severe liver disease  but has been reported in other diseases ,25,0.5,6.816942186560482e-05
+1,0,The congenital form is rare  usually autosomal dominant ,25,0.5,0.9480013847351074
+1,0,A discordance between immunologic and physiologic measurements of fibrinogen is the key to diagnosis ,25,0.5,0.9958311319351196
+0,0,The most common acquired inhibitors of this reaction are heparin and fibrin degradation products FDP ,25,0.5,0.0027062296867370605
+0,0,The effect of heparin can be eliminated by catalyzing the reaction with reptilase  which  unlike thrombin  is insensitive to heparin ,25,0.5,0.00012005768076051027
+1,0,FDP are commonly seen in consumptive coagulopathies and primary fibrinolytic states ,25,0.5,0.986107349395752
+1,1,The syndromes of primary neurologic disease with autonomic insufficiency require very careful evaluation and differentiation ,25,0.5,0.861544668674469
+1,0,In progressive autonomic failure Bradbury Eggleston syndrome or idiopathic orthostatic hypotension the symptoms of autonomic failure are an early manifestation ,25,0.5,0.9936739802360535
+1,0,The history at the time the patient first seeks care is of postural syncope ,25,0.5,0.849445104598999
+0,0,It may also include genitourinary or bowel symptoms  but these usually are revealed in the review of systems rather than offered spontaneously by the patient ,25,0.5,0.0007212162017822266
+0,0,This syndrome  although progressive  develops slowly ,25,0.5,0.00048470497131347656
+0,0,The patient can live for many years in relative comfort once effective blood pressure control is achieved ,25,0.5,0.038503021001815796
+0,0,Conversely  the Shy Drager syndrome is a more rapidly progressive illness and is much more problematic in its management ,25,0.5,0.26473844051361084
+0,0,The dysautonomic symptoms usually follow the appearance of signs of other aspects of neurologic degeneration ,25,0.5,0.3784691393375397
+0,0,The Parkinson like symptoms common in this syndrome are particularly difficult to manage and may actually make management of the postural dizziness more difficult ,25,0.5,0.17977949976921082
+0,0,The drug l dopa  for example  may be useful for the control of rigidity  but is one that can cause orthostatic hypotension ,25,0.5,0.04839545488357544
+1,0,In addition  there appears to be more than one form of neurologic degenerative illness present in the cluster of patients who have been diagnosed as having Shy Drager syndrome ,25,0.5,0.7441237568855286
+0,0,While they all ultimately develop dysautonomia  some have this only in conjunction with Parkinson like abnormalities consistent with olivo ponto cerebellar degeneration ,25,0.5,0.00015863776206970215
+1,0,Others may have different distributions of neurologic abnormalities including both sensory system abnormalities and voluntary motor dysfunction ,25,0.5,0.9619148969650269
+0,0,Because there can be degeneration of several different neurologic systems in this syndrome  the name multiple system atrophy has been proposed ,25,0.5,0.30616867542266846
+0,0,These patients do not develop dementia ,25,0.5,2.884113996515225e-07
+0,0,Finally  to complicate the situation  autonomic dysfunction may occur in some patients with true Parkinson's syndrome ,25,0.5,0.002566099166870117
+1,0,The righting reflex abnormalities commonly present in this illness make sudden standing difficult ,25,0.5,0.9876289367675781
+0,0,They are often confused with true orthostatic blood pressure abnormalities and postural syncope ,25,0.5,0.3281775116920471
+0,0,But some patients will actually develop signs of autonomic system degeneration and orthostatic hypotension late in the course of their illness ,25,0.5,0.007641226053237915
+1,0,Dementia is a manifestation of Parkinson's syndrome that does not occur in the Shy Drager syndrome or in progressive autonomic failure ,25,0.5,0.830316960811615
+0,0,Because these primary syndromes have such different natural histories and because there are differences in their ease of treatment  it is important to try to differentiate among them ,25,0.5,0.04162803292274475
+0,0,The differential points are summarized in Table ,25,0.5,0.00048109889030456543
+1,0,The primary dysautonomic syndromes can be devastating illnesses causing severe disruption of a patient's life because of their pattern of symptoms  inability to rise  inability to control bowel and bladder  failure of normal sexual function ,25,0.5,0.9991885423660278
+0,0,These symptoms may be accompanied by tremor  rigidity  and other Parkinson like symptoms and signs when autonomic degeneration occurs in association with multiple system atrophy ,25,0.5,0.08343932032585144
+0,0,Fortunately these are rare illnesses ,25,0.5,0.0018389523029327393
+0,0,No methods of treatment can arrest or cure them ,25,0.5,7.28207451174967e-05
+1,0,It is possible to control some of the symptoms  however  particularly the postural syncope  but this is often made more difficult by the therapy required for control of the Parkinisonian syndrome ,25,0.5,0.5763612389564514
+0,0,There are no really effective treatment modalities for the other aspects of primary dysautonomia ,25,0.5,0.009628593921661377
+1,0,Diabetes mellitus is probably the most important of the systemic illnesses in which dysautonomia is a manifestation ,25,0.5,0.9245433211326599
+1,0,The diabetic may demonstrate the symptoms of autonomic nervous system dysfunction very early in the disease process  even before major changes in glucose tolerance have developed  and the dysautonomic process may be particularly difficult to diagnose in the diabetic because it often does not follow the classic pattern of presentation ,25,0.5,0.7181413173675537
+0,0,For example  even though the pressor component of the baroreceptor reflex may be inhibited  the cardioaccelerator component often will remain intact ,25,0.5,0.000994950532913208
+0,0,The asympathicotonic character of othostatic hypotension in the diabetic will not be evident because the heart rate response to postural change persists ,25,0.5,0.3019876182079315
+0,0,The diabetic may also demonstrate some of the effects of dysautonomia on visceral function before developing postural blood pressure control problems ,25,0.5,0.0009798705577850342
+1,0,Thus it is common for the diabetic to develop nocturnal diarrhea or diarrhea alternating with constipation as a manifestation of dysautonomic bowel function ,25,0.5,0.9994601607322693
+0,0,Impotence and retrograde ejaculation are also frequently reported ,25,0.5,0.00014507770538330078
+1,0,The occurrence of orthostatic hypotension and postural syncope is a major problem with some drugs Table ,25,0.5,0.7700588703155518
+0,0,This side effect will make it impossible to continue to use an agent in a therapeutic regimen even if it is producing the desired treatment effect because of the risks to the patient and the inability of a patient to tolerate this problem ,25,0.5,0.0001920461654663086
+1,0,The list of drugs that can cause postural syncope is long and varied ,25,0.5,0.9999799728393555
+0,0,Some produce this effect through actions in the autonomic nervous system ,25,0.5,6.252655293792486e-05
+0,0,Others do not impair autonomic function  but result in diminution of the circulating blood volume ,25,0.5,7.798560545779765e-05
+1,0,These drugs share the common characteristic  whether causing autonomic inhibition or producing postural symptoms through volume depletion  that they reduce cardiac output and preload ,25,0.5,0.9259205460548401
+0,0,Drugs that only reduce peripheral vascular resistance e g   hydralazine  minoxidil do not cause orthostatic hypotension ,25,0.5,8.953807991929352e-05
+0,0,This is an important consideration when planning a change in therapy in an attempt to alleviate postural syncope as a side effect ,25,0.5,0.14976072311401367
+1,0,The most important consequence of these side effects is probably not the postural syncope or impairment of sexual performance per se  but the failure of the patient to remain compliant with the treatment regimen once a drug is identified as the cause of discomfort ,25,0.5,0.9805608987808228
+1,0,The mistrust of drugs is often carried over to other agents  and even minor discomforts are blamed on a drug ,25,0.5,0.9660148620605469
+1,0,Since drugs are needed for lifetime treatment in most of the patients  such compliance failure and the associated unwillingness to trust any agent become an extremely important clinical management problem ,25,0.5,0.9568462371826172
+0,0,Other secondary dysautonomias are relatively uncommon ,25,0.5,0.0006364881992340088
+1,0,In addition  the symptoms of failure of the autonomic system are only a part of the entire syndrome presented by the patient ,25,0.5,0.9490445852279663
+0,0,Most often  the diagnosis of these illnesses will be suggested by these other symptoms ,25,0.5,1.8831526176654734e-05
+1,0,The full differential diagnosis must be reviewed  however  because the secondary dysautonomic syndromes are often part of correctable problems and will resolve with successful treatment or control of the underlying systemic illness ,25,0.5,0.9986278414726257
+1,1,Arterial blood gases ABGs is a collective term applied to three separate measurementspH  Pco  and Pogenerally made together to evaluate acid base status  ventilation  and arterial oxygenation ,25,0.5,0.9389582872390747
+1,0,Oxygen O and carbon dioxide CO are the most important respiratory gases  and their partial pressures in arterial blood reflect the overall adequacy of gas exchange ,25,0.5,0.9506551027297974
+0,0,Pao is affected by age and altitude ,25,0.5,0.04195180535316467
+0,0,Paco by altitude ,25,0.5,4.6762519900767074e-07
+1,0,Therefore  Pao must be individually calculated for each patient  and both determinations must be interpreted against local normal values ,25,0.5,0.9833839535713196
+0,0,Hydrogen is not present in blood as a gas and  therefore  does not exert a partial pressure ,25,0.5,0.0001723170280456543
+1,0,However  pH  which measures hydrogen ion activity  is a conventional part of every arterial blood gas determination ,25,0.5,0.9997517466545105
+1,0,The normal range for blood pH is ,25,0.5,0.7779356241226196
+0,0,to ,25,0.5,0.022403985261917114
+0,0,Some calculated or derived variables may be reported with the ABGs ,25,0.5,2.7595548090175726e-05
+1,0,The bicarbonate concentration  which can be calculated from the pH and Pco  is the most useful of these ,25,0.5,0.9646943807601929
+0,0,Others  such as base excess and base deficit  are not essential and may be confusing ,25,0.5,0.0005695223808288574
+1,1,By the management of pressure with a stethoscope over or near large veins  the venous murmur may often be raised  by a gradual swelling  into a more or less musical hum ,25,0.5,0.999653697013855
+prediction,ground_truth,text,lda_gamma,prediction_threshold,logit
+1,1,The kidneys and lungs maintain daily acid base balance ,25,0.25,0.9890879392623901
+1,0,Understanding this normal physiology allows us to appreciate abnormalities ,25,0.25,0.9968290328979492
+0,0,This discussion refers to bicarbonate rather than total CO content  as we measure total CO content as a surrogate for bicarbonate ,25,0.25,1.0348582009100937e-06
+1,0,Bicarbonate and carbonic acid constitute the major buffer pair in body fluids ,25,0.25,0.9903116226196289
+0,0,Carbonic acid dissociates into hydrogen ion and bicarbonate with a dissociation constant of ,25,0.25,0.061580657958984375
+0,0,× ,25,0.25,3.489150685709319e-06
+0,0,Carbonic acid also maintains an equilibrium with HO and CO ,25,0.25,0.00025773048400878906
+1,0,We usually describe dissociation constants and hydrogen ion concentrations as negative logarithms ,25,0.25,0.9173730611801147
+0,0,Thus  the negative logarithm of the dissociation constant equals ,25,0.25,0.003701716661453247
+0,0,This value is called the pKa ,25,0.25,2.70647433353588e-05
+1,0,Normal hydrogen ion concentration equals  nanoequivalentsliter  corresponding to a pH of ,25,0.25,0.9844950437545776
+1,0,The familiar Henderson Hasselbalch equation derives from these facts ,25,0.25,0.49099284410476685
+1,0,Carbonic acid concentration is proportional to the partial pressure of carbon dioxide pCO in the blood ,25,0.25,0.5019636750221252
+0,0,Multiplying the pCO by a constant ,25,0.25,9.705243428470567e-05
+1,0,estimates the carbonic acid concentration  giving the useful form of the above equation ,25,0.25,0.3609716296195984
+0,0,Changes in hydrogen ion concentration pH result from changes in either bicarbonate or carbon dioxide ,25,0.25,0.13278761506080627
+1,0,Measurement of total CO content can help us explain acid base disorders when the pH and pCO are known ,25,0.25,0.42825114727020264
+1,0,Furthermore  since we often measure total CO content as part of automated chemistry determinations  this measurement can provide the first clue to acid base disturbances ,25,0.25,0.9978864192962646
+0,0,We produce approximately  mEqkg daily of hydrogen ions derived from metabolism of proteins primarily ,25,0.25,0.03218710422515869
+0,0,The kidney normally excretes this daily acid load ,25,0.25,0.010700225830078125
+0,0,Failure of excretion forces the reaction of H+ and HCO  resulting in a decrease of bicarbonate concentration ,25,0.25,0.0010358691215515137
+1,0,Bicarbonate reabsorption occurs primarily in the proximal tubule ,25,0.25,0.9997456073760986
+0,0,Carbonic anhydrase controls this absorption ,25,0.25,4.929018177790567e-05
+1,0,The patient's volume status has a major influence on absorption  since sodium is reabsorbed along with this bicarbonate ,25,0.25,0.8374027013778687
+1,0,Thus  volume contraction stimulates both sodium and bicarbonate reabsorption ,25,0.25,0.42867016792297363
+0,0,This results in an increased total CO content ,25,0.25,6.756143557140604e-05
+0,0,Likewise  volume expansion can lead to a mild decrease in total CO content ,25,0.25,0.00018578767776489258
+1,0,Hydrogen ion concentration pH is another major determinant of bicarbonate reabsorption ,25,0.25,0.8383623957633972
+1,0,Thus  the kidney will respond to changes in ventilation pCO with compensatory changes in bicarbonate reabsorption ,25,0.25,0.9556677937507629
+0,0,For example  chronic hypoventilation  pCO causes a decreased pH ,25,0.25,0.04012063145637512
+0,0,This decreased pH stimulates bicarbonate reabsorption  thus the patient will have an increased total CO content ,25,0.25,0.007225483655929565
+1,1,Interpersonal relationships refer to reciprocal social and emotional interactions between the patient and other persons in the environment ,25,0.25,0.9916818141937256
+1,0,Almost every mental disorder is accompanied by problems in this respect ,25,0.25,0.9941884875297546
+1,0,Frequently a basic cause of conflict with other people is the presence of some psychiatric disorder ,25,0.25,0.904557466506958
+0,0,Major areas in which these conflicts may occur include the following relations ,25,0.25,0.014735549688339233
+0,0,  Family  Social  Work  Religious  Sexual ,25,0.25,0.2199987769126892
+1,1,The character of flank pain is very helpful in determining the cause ,25,0.25,0.9180818200111389
+1,0,Important characteristics include local or referred pain  acute or chronic or recurrent pain  degree of severity  and duration ,25,0.25,0.38375765085220337
+1,0,Associated symptoms such as fever  nausea and vomiting  and atrial fibrillation often help in making the correct diagnosis ,25,0.25,0.6291998624801636
+1,0,Flank pain that radiates to the ipsilateral testicle is usually caused by proximal ureteral or renal pelvic obstruction due to the common innervation of the testicle and the renal pelvis T ,25,0.25,0.9999657869338989
+0,0,This pain usually originates in the posterior part of the flank and radiates to the testicle of the male or the labia of the female ,25,0.25,0.13976287841796875
+0,0,The pain becomes lower and more anterior in the flank when the obstruction occurs in the middle third of the ureter ,25,0.25,0.020770490169525146
+1,0,The pain is still lower  radiates to the scrotal skin rather than the testicle  and is associated with voiding symptoms such as urinary frequency and urgency when the obstruction occurs at the level of the ureterovesical junction ,25,0.25,0.9752442240715027
+0,0,The degree of severity of the pain is directly related to the acuteness of the obstruction rather than the degree of obstruction ,25,0.25,0.000265270471572876
+0,0,Therefore  a stone that passes into the ureter and suddenly becomes lodged in one position usually causes extremely severe pain ,25,0.25,0.02075687050819397
+1,0,But flank pain can be very mild or absent in the presence of very severe but chronic obstruction ,25,0.25,0.6192482113838196
+1,0,Mild and chronic flank pain associated with severe ureteral obstruction can produce irreversible renal damage ,25,0.25,0.9849547147750854
+0,0,A stone passing through the ureter will often cause severe but intermittent pain ,25,0.25,0.014366954565048218
+1,0,The intermittent pain is related to obstruction produced when the stone becomes lodged in the ureter ,25,0.25,0.7223786115646362
+0,0,Therefore  each episode of pain is likely to be associated with a stone becoming lodged in a new and more distal position in the ureter ,25,0.25,0.0007281899452209473
+0,0,Flank pain is often associated with less specific symptoms including fever  nausea and vomiting  and tachycardia ,25,0.25,0.03731498122215271
+1,0,Fever suggests infection proximal to the ureteral obstruction ,25,0.25,0.7675454616546631
+1,0,Flank pain associated with fever requires a prompt diagnosis of ureteral obstruction and relief of the obstruction because infection proximal to the obstruction causes much more rapid renal damage than occurs with obstruction in the absence of infection ,25,0.25,0.8822988271713257
+0,0,Also  the patient is susceptible to septicemia in the presence of infection proximal to a ureteral obstruction ,25,0.25,0.0159643292427063
+1,0,Gross or microscopic hematuria helps to confirm a urinary cause of the pain ,25,0.25,0.9395189881324768
+0,0,Hematuria is occasionally absent with acute ureteral obstruction  however  and is often absent with chronic obstruction ,25,0.25,0.020888179540634155
+1,0,Although ureteral stone is the most common cause of flank pain  many other causes should be considered see Table ,25,0.25,0.29348522424697876
+1,0,Flank pain resulting from acute ureteral obstruction can also be caused by blood clots or sloughed renal papillae passing through the ureter ,25,0.25,0.27649009227752686
+1,0,Blood clots can be produced by many pathologic lesions of the kidney  tumors being the most common cause ,25,0.25,0.8812580108642578
+1,0,Renal papillary necrosis should be considered in patients with a history of analgesic abuse or diabetes mellitus ,25,0.25,0.33256810903549194
+0,0,Flank pain caused by chronic ureteral obstruction is generally much less severe ,25,0.25,0.201370507478714
+1,0,Occasionally  congenital anomalies such as ureteropelvic junction obstruction produce flank pain associated with a diuresis after oral intake of a large volume of fluid ,25,0.25,0.9019265174865723
+1,0,Bilateral chronic ureteral obstruction or ureteral obstruction of a solitary kidney can be associated with symptoms of renal failure such as apathy  lethargy  anorexia  muscle twitching  headache  hypertension  and poor growth of a child ,25,0.25,0.9875165224075317
+1,0,A dull or mild flank pain should make the clinician consider many possible causes including congenital ureteral obstruction  ureteral tumor or an extrinsic tumor compressing the ureter  acquired stricture of the ureter due to a previous operation or radiation therapy  retroperitoneal fibrosis  and a ureteral stone ,25,0.25,0.9902490377426147
+1,0,Flank pain caused by renal inflammation generally is not as sudden in onset or as severe as pain caused by acute ureteral obstruction ,25,0.25,0.6438979506492615
+1,0,Renal inflammation usually produces localized pain and is associated with other manifestations of infection such as fever  leukocytosis  and bacteriuria ,25,0.25,0.7934056520462036
+1,0,Flank pain can be caused by different types of renal tumors  but pain is not the most common presenting symptom  and when pain is present  it often is associated with other symptoms ,25,0.25,0.9214353561401367
+1,0,Hematuria is the most common symptom seen in tumors presenting in adults  an abdominal mass is the most common presenting symptom of Wilms tumor in childhood ,25,0.25,0.9912523031234741
+1,0,Uncommon causes of flank pain include renal trauma  renal infarction  and vesicoureteral reflux even in the absence of infection ,25,0.25,0.9811124801635742
+1,0,Renal infarction should be considered in patients with atrial fibrillation or a recent myocardial infarction ,25,0.25,0.6776522397994995
+1,0,Vesicoureteral reflux occasionally causes mild flank pain due to distention of the ureter and renal pelvis when the reflux occurs while voiding ,25,0.25,0.9914689064025879
+1,0,A patient should be suspected of being an analgesic abuser when he or she presents with a history of acute severe flank pain  uric acid stones  previous reactions to contrast media  and a residence a great distance away ,25,0.25,0.9791768789291382
+0,0,The physician should not be fooled by hematuria because narcotic addicts find ways to place blood in their urine specimens ,25,0.25,0.002407163381576538
+1,0,Extraurinary diseases of the abdomen and chest can also cause flank pain ,25,0.25,0.26157885789871216
+0,0,These diseases produce pain less characteristic of the typical renal colic seen with acute ureteral obstruction ,25,0.25,0.01005062460899353
+1,0,Nevertheless  this vague  dull  mild flank pain is similar to the pain seen with chronic ureteral obstruction  making the differential diagnosis unclear ,25,0.25,0.7528048753738403
+1,0,The correct diagnosis is made by thinking of all the diseases that have been discussed  considering the associated symptoms  physical examination  urinalysis  and performing carefully selected laboratory tests and radiographic studies ,25,0.25,0.9992152452468872
+0,1,Albumin makes up more than half of the total protein present in serum ,25,0.25,0.08431640267372131
+1,0,Approximately  to  of the body's total albumin pool is found in the intravascular compartment ,25,0.25,0.8507448434829712
+0,0,The remainder is extravascular and is located in the interstitial spaces  mainly of the muscles and skin ,25,0.25,0.025548100471496582
+1,0,Albumin is also found in small amounts in a variety of body tissue fluids such as sweat  tears  gastric juice  and bile ,25,0.25,0.2938728332519531
+0,0,Albumin does not diffuse freely through intact vascular endothelium ,25,0.25,0.020126432180404663
+1,0,Hence  it is the major protein providing the critical colloid osmotic or oncotic pressure that regulates passage of water and diffusable solutes through the capillaries ,25,0.25,0.991267204284668
+0,0,Albumin accounts for  of the colloid osmotic pressure ,25,0.25,0.0066769421100616455
+0,0,It exerts a greater osmotic force than can be accounted for solely on the basis of the number of molecules dissolved in the plasma  and for this reason it cannot be completely replaced by inert substances such as dextran ,25,0.25,0.03642621636390686
+1,0,The reason is that albumin has a negative charge at normal blood pH and attracts and retains cations  especially Na+ in the vascular compartment ,25,0.25,0.9434322714805603
+0,0,This is called the Gibbs Donnan effect ,25,0.25,8.613888553554716e-07
+1,0,Albumin also binds a small number of Cl ions that increase its negative charge and ability to retain Na+ ions inside the capillaries ,25,0.25,0.3207537829875946
+0,0,This enhanced osmotic force causes the colloid osmotic pressure to be  greater than it would be by protein concentration alone ,25,0.25,0.00021952390670776367
+1,0,Albumin serves in the transport of bilirubin  hormones  metals  vitamins  and drugs ,25,0.25,0.9992637038230896
+1,0,It has an important role in fat metabolism by binding fatty acids and keeping them in a soluble form in the plasma ,25,0.25,0.6128286123275757
+1,0,This is one reason why hyperlipemia occurs in clinical situations of hypoalbuminemia ,25,0.25,0.683458685874939
+1,0,The binding of hormones by albumin regulates the amount of free hormone available at any time ,25,0.25,0.4476718306541443
+0,0,Because of its negative charge  albumin is also able to furnish some of the anions needed to balance the cations of the plasma ,25,0.25,0.002510756254196167
+1,0,Albumin is synthesized in the liver ,25,0.25,0.2974778413772583
+1,0,The rate of synthesis is constant in normal individuals at  to  mgkgday  resulting in the production of  to  g of albumin daily in a  kg man ,25,0.25,0.8262442946434021
+0,0,The liver produces albumin at less than half of its capacity ,25,0.25,0.0007660090923309326
+1,0,The primary factors affecting albumin synthesis include protein and amino acid nutrition  colloidal osmotic pressure  the action of certain hormones  and disease states ,25,0.25,0.9978166818618774
+0,0,Fasting or a protein deficient diet cause a decrease in albumin synthesis as long as the deficiency state is maintained ,25,0.25,0.005373924970626831
+1,0,In the normal individual  the liver increases albumin synthesis in response to the increased availability of amino acids provided by the portal blood following each protein containing meal ,25,0.25,0.9951208829879761
+1,0,A decrease in extravascular colloidal pressure serves as a stimulus for albumin synthesis and is thought to act within the liver ,25,0.25,0.8536117076873779
+0,0,Thyroid hormone  corticosteroids  growth hormone  and insulin all can increase albumin synthesis ,25,0.25,0.03675574064254761
+1,0,The main site of albumin degradation is not known ,25,0.25,0.8862414360046387
+1,0,Albumin appears to be catabolized in locations that are capable of rapid equilibration with the bloodstream ,25,0.25,0.9909275770187378
+0,0,It is degraded into amino acids that are utilized for energy requirements of the cell or secreted into the pool of extracellular amino acids ,25,0.25,0.2451607584953308
+1,0,The globulin fraction includes hundreds of serum proteins including carrier proteins  enzymes  complement  and immunoglobulins ,25,0.25,0.9997939467430115
+0,0,Most of these are synthesized in the liver  although the immunoglobulins are synthesized by plasma cells ,25,0.25,0.09143075346946716
+0,0,Globulins are divided into four groups by electrophoresis ,25,0.25,0.004341781139373779
+0,0,The four fractions are a  a  b and g  depending on their migratory pattern between the anode and the cathode ,25,0.25,0.22183090448379517
+0,0,Increases in the globulin fraction usually result from an increase in immunoglobulins  but there can be an increase in other proteins in pathologic states that have characteristic electrophoretic patterns see Figures ,25,0.25,0.04472735524177551
+1,0,Malnutrition and congenital immune deficiency can cause a decrease in total globulins due to decreased synthesis  and nephrotic syndrome can cause a decrease due to protein loss through the kidney ,25,0.25,0.9987210035324097
+0,0,Immunoglobulins i e   antibodies migrate mainly in the g region  but some migrate in the b and a regions as well ,25,0.25,0.0005173087120056152
+0,0,Each immunoglobulin molecule is composed of two heavy chains that are of the same class and two light chains that are also alike ,25,0.25,0.003082364797592163
+1,0,Each heavy chain has a variable region in which amino acid substitutes make each chain different from the next and a constant region in which there are very few amino acid differences from the constant region of any other immunoglobulin of that heavy chain type ,25,0.25,0.6446049213409424
+0,0,Light chains are of either l or k type and have constant and variable regions ,25,0.25,0.059136390686035156
+1,0,The different kinds of immunoglobulins are named by capital letters that correspond to their heavy chain type  IgG  IgA  IgM  IgE  and IgD ,25,0.25,0.9000637531280518
+0,0,Three fourths of the immunoglobulin level in normal serum is of the IgG type ,25,0.25,0.013193875551223755
+0,0,Many antibodies to bacteria and viruses are IgG ,25,0.25,0.0061609745025634766
+1,0,The normal collection of IgG molecules is made up of minute amounts of different IgG antibodies produced from diverse clones of plasma cells  thus it is polyclonal ,25,0.25,0.9992095232009888
+0,0,If a single clone escapes its normal controls  it can reproduce excessively and synthesize an excess of a monoclonal protein with a single heavy chain class and light chain type ,25,0.25,0.038201093673706055
+1,1,There are four major circumstances in which an eating behavior can be considered a pica ,25,0.25,0.9990051984786987
+1,0,These circumstances are disparate enough to reduce the likelihood that one underlying abnormality accounts for all pica ,25,0.25,0.8480588793754578
+1,0,In a very general sense  the disorder originates from either behavioral or biochemical sources ,25,0.25,0.9688672423362732
+0,0,The somewhat loose use of the term pica  though  makes it difficult to generalize and contributes to the lack of an all embracing hypothesis ,25,0.25,0.015916109085083008
+0,0,A mentally disturbed or retarded person may impulsively ingest any available object  suffering the medical consequences thereof ,25,0.25,0.032470911741256714
+0,0,Persons with an obsessive personality disorder may fixate on an ingestion activity ,25,0.25,0.11226421594619751
+1,0,These persons have behavioral abnormalities in which the ingestion activity pica is more the choice of a disordered mind than a response to a biochemical deficiency ,25,0.25,0.9321680068969727
+0,0,The mouthing activity of children is at least in part a learning behavior and may not represent a pica ,25,0.25,0.2149093747138977
+1,0,Children seem to derive as much tactile information from inserting objects into the mouth as touching with the fingers ,25,0.25,0.9691423177719116
+0,0,This discovery process  unfortunately  can have adverse medical consequences  highlighted by the problem of lead poisoning ,25,0.25,0.037211835384368896
+1,0,Ingestion of paint chips or plaster may originate as an innocent mouthing activity but develop into a true pica  perhaps due to the semisweet taste of lead based paints ,25,0.25,0.9588252305984497
+0,0,Some investigators believe that a pica in childhood has the same significance as in adults ,25,0.25,0.005309343338012695
+1,0,They point to the fact that many milk fed children become iron deficient and contend that compulsive drinking of milk or eating of paint chips  dirt  and so on  reflects the same poorly understood craving as in adults ,25,0.25,0.9825010299682617
+1,0,A third important circumstance in which a pica is found is the compulsive ingestion of dirt or clay  as practiced in the rural South or by migrants from that region ,25,0.25,0.4228844940662384
+1,0,This geophagia seems to have originated as an ethnic cultural habit passed down from mother to child ,25,0.25,0.9975674152374268
+0,0,Children of both sexes learn the behavior as toddlers and generally outgrow the activity a few years later ,25,0.25,1.9731243810383603e-05
+0,0,Daughters  however  are re introduced to the behavior years later  often during a first pregnancy ,25,0.25,0.036174654960632324
+1,0,Pregnancy is a time when many women are iron deficient  but the behavior seems to be widespread enough for a deficiency not to be the complete explanation ,25,0.25,0.9571709036827087
+0,0,Geophagia manages to persist even with migration ,25,0.25,0.005712717771530151
+1,0,Older black women in the Midwest recall being sent shoeboxes filled with clay from relatives in the deep South ,25,0.25,0.7888310551643372
+1,0,In fact  clay from certain sites was highly regarded for its taste  and clay from substitute sites was quickly spotted ,25,0.25,0.8538930416107178
+0,0,In more recent years  geophagia may have been replaced by amylophagia starch eating  which is considered more sanitary ,25,0.25,1.7343219951726496e-05
+1,0,Although many women who have this pica may be nutritionally deficient  the bulk of the evidence suggests that an ethnic cultural practice is the explanation Vermeer and Frate ,25,0.25,0.9996241927146912
+1,0,The majority of pica seen by physicians in Western countries can be traced to iron deficiency  with or without anemia ,25,0.25,0.9984956979751587
+0,0,In fact  a pica may be detected in as many as  of all persons with iron deficiency ,25,0.25,0.0725659728050232
+1,0,Crosby  is the most prominent proponent of the idea that a pica is a manifestation of a lack of iron stores and not of the anemia itself ,25,0.25,0.9293642044067383
+0,0,He points out that pica is not common in other anemias ,25,0.25,0.0006977319717407227
+0,0,The pica also disappears  in most cases  once iron replacement begins and long before the anemia is corrected ,25,0.25,0.11504143476486206
+1,0,He wryly notes that in most cases the choice of material ingested rarely is a good source of the missing mineral ,25,0.25,0.6272290945053101
+0,0,For a pica to occur  it is not important how the iron deficiency develops ,25,0.25,0.0016994774341583252
+1,0,Hence  a pica may be seen whether the person has a chronic gastrointestinal bleed  menorrhagia  inadequate diet  or any of the other causes of iron loss ,25,0.25,0.9966750741004944
+1,0,There is no good explanation  however  for why an eating behavior is a manifestation of iron deficiency ,25,0.25,0.7832278609275818
+1,0,It is true that the mineral is found in some important enzyme systems involving taste and digestion ,25,0.25,0.9900178909301758
+0,0,In some way  perhaps deficiency of iron in those enzymes could induce an iron seeking behavior ,25,0.25,1.4464652849710546e-05
+1,0,An entirely different explanation relates to the observation that certain lesions of the brain may result in hyperphagia ,25,0.25,0.9846582412719727
+0,0,It has been noted that those sites are high in iron content ,25,0.25,3.573183494154364e-05
+1,0,The extrapolation  then  is that lack of iron in those sites induces hyperphagia again  iron seeking  of which the pica is a manifestation ,25,0.25,0.40411972999572754
+0,0,This hypothesis has never been put to experimental trial ,25,0.25,0.0023422837257385254
+1,0,Pica is not necessarily a manifestation of iron deficiency only ,25,0.25,0.6079151034355164
+0,0,Zinc deficiency has also been noted as a cause of pica  and it is not unreasonable to suspect that other minerals may be implicated ,25,0.25,0.014932304620742798
+1,1,These in vitro teststhe activated partial thromboplastin time aPTT  prothrombin time PT  and thrombin time TTmeasure the time elapsed from activation of the coagulation cascade Figure ,25,0.25,0.9259200096130371
+0,0,at different points to the generation of fibrin ,25,0.25,0.09928330779075623
+1,0,The aPTT measures the time necessary to generate fibrin from initiation of the intrinsic pathway Figure ,25,0.25,0.26052767038345337
+1,0,Activation of factor XII is accomplished with an external agent e g   kaolin capable of activating factor XII without activating factor VII ,25,0.25,0.8701721429824829
+0,0,Since platelet factors are necessary for the cascade to function normally  the test is performed in the presence of a phospholipid emulsion that takes the place of these factors ,25,0.25,0.06061527132987976
+1,0,The classic partial thromboplastin time depends on contact with a glass tube for activation ,25,0.25,0.9940893650054932
+0,0,Since this is considered a difficult variable to control  the activated test uses an external source of activation ,25,0.25,0.004000663757324219
+0,0,Citrated plasma  an activating agent  and phospholipid are added together and incubated at °C ,25,0.25,0.002176225185394287
+1,0,Calcium is added  and the time necessary for the clumping of kaolin is measured ,25,0.25,0.960157036781311
+0,0,The normal time is usually reported as less than  to  seconds depending on the technique used ,25,0.25,0.00609859824180603
+0,0,In fact  there is a normal range of about  seconds e g    to   and decreased values short may also be abnormal ,25,0.25,0.0001430213451385498
+1,0,This test is abnormal in the presence of reduced quantities of factors XII  IX  XI  VIII  X  V  prothrombin  and fibrinogen all integral parts of the intrinsic and common pathway ,25,0.25,0.999975323677063
+0,0,It is usually prolonged if a patient has less than approximately  normal activity ,25,0.25,0.0018107593059539795
+0,0,It can also be abnormal in the presence of a circulating inhibitor to any of the intrinsic pathway factors ,25,0.25,0.0028412938117980957
+1,0,The differentiation of inhibitors from factor depletion is important and can best be accomplished by a mixing study in which patient and normal plasma are combined in a   ratio and the test is repeated on the mixed sample ,25,0.25,0.998132586479187
+0,0,If the abnormal value is corrected completely  the problem is factor deficiency ,25,0.25,0.013106435537338257
+0,0,If the result does not change or the abnormality is corrected only partially  an inhibitor is present ,25,0.25,0.021336406469345093
+0,0,This difference stems from the above mentioned fact that the aPTT will be normal in the presence of  normal activity ,25,0.25,0.0506134033203125
+1,0,The aPTT is a good screening test for inherited or acquired factor deficiencies ,25,0.25,0.9930746555328369
+1,0,Inherited disorders including classic hemophilia A factor VIII deficiency and hemophilia B factor IX deficiency  or Christmas disease are well known diseases in which the aPTT is prolonged ,25,0.25,0.9952206611633301
+0,0,Other intrinsic and common pathway factors may also be congenitally absent ,25,0.25,3.248995926696807e-05
+1,0,These conditions are rare but have been described for all factors ,25,0.25,0.9564543962478638
+0,0,A number of kindreds with abnormalities of factor XII activation have been described ,25,0.25,0.04911622405052185
+0,0,They are usually associated with a prolonged aPTT without clinical signs of bleeding ,25,0.25,0.0004366636276245117
+1,0,Acquired factor deficiency is common ,25,0.25,0.32964372634887695
+0,0,Vitamin K deficiency  liver dysfunction  and iatrogenic anticoagulation with warfarin are most common ,25,0.25,0.008377879858016968
+0,0,Factor depletion may also occur in the setting of disseminated intravascular coagulation DIC  prolonged bleeding  and massive transfusion ,25,0.25,0.05877190828323364
+1,0,A prolonged aPTT that cannot be completely normalized with the addition of normal plasma can be explained only by the presence of a circulating inhibitor of coagulation ,25,0.25,0.9121697545051575
+1,0,The presence of these inhibitors is almost always acquired  and their exact nature is not always apparent ,25,0.25,0.365965336561203
+0,0,From a clinical point of view  the most common inhibitors should be considered antithrombins ,25,0.25,0.0007654726505279541
+0,0,These compounds inhibit the activity of thrombin on the conversion of fibrinogen to fibrin Figure ,25,0.25,0.0007071495056152344
+1,0,The two most common inhibitors are heparin  which acts through the naturally occurring protein antithrombin III AT III  and fibrin degradation products FDP  formed by the action of plasmin on the fibrin clot and usually present in elevated concentrations in DIC and primary fibrinolysis ,25,0.25,0.9927887320518494
+0,0,Other inhibitors appear to be antibodies ,25,0.25,1.0974938646768351e-07
+1,0,The easiest to understand is the antibody against factor VIII in patients with hemophilia A treated with factor VIII concentrate ,25,0.25,0.9964032173156738
+1,0,Inhibitors against other factors have been described with a variety of diseases that follow a variable course ,25,0.25,0.9701429605484009
+0,0,When characterized  they have been immunoglobulins ,25,0.25,0.00010545597615418956
+0,0,A particular problem may be seen in patients suffering from systemic lupus erythematosus ,25,0.25,0.008433312177658081
+0,0,These patients may present with a prolonged aPTT without evidence of bleeding ,25,0.25,0.00017261505126953125
+0,0,Some present with thrombosis ,25,0.25,5.352348307496868e-05
+1,0,The abnormality cannot be corrected with normal plasma and has been referred to as the lupus anticoagulant ,25,0.25,0.9973937273025513
+0,0,This phenomenon does not represent an in vivo problem with the coagulation cascade ,25,0.25,3.821843711193651e-05
+1,0,Rather  it is a laboratory abnormality caused by the presence of a serum constituent that interferes with the in vitro partial thromboplastin test ,25,0.25,0.5060825347900391
+0,0,Occasionally the reported value of the aPTT will be lower than normal ,25,0.25,1.8180635379394516e-05
+0,0,This shortened time may reflect the presence of increased levels of activated factors in context of a hypercoagulable state ,25,0.25,0.0014168024063110352
+0,0,It is seen in some patients in the early stages of DIC but should not be considered diagnostic for that entity ,25,0.25,0.24738112092018127
+1,0,The PT measures the time necessary to generate fibrin after activation of factor VII ,25,0.25,0.9431260228157043
+1,0,It measures the integrity of the extrinsic and common pathways factors VII  V  X  prothrombin  and fibrinogen ,25,0.25,0.9747332334518433
+1,0,Citrated plasma and an activating agent usually thromboplastin extracted from animal brain are incubated at °C ,25,0.25,0.9831534624099731
+0,0,The plasma is recalcified and the time is measured until fibrin filaments are observed ,25,0.25,0.09121426939964294
+0,0,Each laboratory has its own normal value  usually between  and  seconds ,25,0.25,0.0301075279712677
+0,0,As with the interpretation of a prolonged aPTT  a prolonged PT may reflect either factor deficiency or a circulating inhibitor of coagulation ,25,0.25,0.01290518045425415
+1,0,The distinction is made by repeating the test after a   mix with normal plasma ,25,0.25,0.6445298790931702
+0,0,The test is more sensitive than the aPTT for deficient levels of factors  and a relatively small drop in factor VII levels may prolong the PT ,25,0.25,8.705749496584758e-05
+1,0,Inherited deficiency of factor VII is a rare bleeding disorder characterized by a prolonged PT and a normal aPTT ,25,0.25,0.9999955892562866
+0,0,The PT completely corrects when mixed with normal plasma ,25,0.25,0.0007900893688201904
+1,0,Acquired deficiencies are usually related to liver disease  warfarin therapy  or depletion secondary to consumptive coagulopathy  severe bleeding  or massive transfusion ,25,0.25,0.9990825653076172
+1,0,Circulating inhibitors are most often directed at factor X or thrombin ,25,0.25,0.3799898028373718
+0,0,Most common are heparin or products of fibrinolysis ,25,0.25,0.1455363929271698
+0,0,In their presence the prolonged PT cannot be completely corrected to normal in a   mixing study ,25,0.25,0.022372007369995117
+1,0,This test measures the time necessary to drive the reaction of fibrinogen to fibrin in the presence of thrombin ,25,0.25,0.8489559888839722
+1,0,It measures the integrity of this reaction and isolates an abnormality to either a decrease in normal fibrinogen or an inhibitor to its activation ,25,0.25,0.6674971580505371
+0,0,Citrated plasma is incubated at °C and thrombin is added to the solution ,25,0.25,0.05231645703315735
+1,0,Time is measured from the addition of thrombin to the generation of fibrin filaments ,25,0.25,0.9944618940353394
+0,0,Calcium is unnecessary ,25,0.25,0.0002624094486236572
+1,0,Abnormalities can be explained in one of three ways  deficient fibrinogen <  mgdl  abnormal fibrinogen  or an inhibitor to the reaction ,25,0.25,0.9557824730873108
+1,0,As with other tests of the coagulation cascade  if a   mixing study normalizes the prolonged time  one is dealing with factor deficiency ,25,0.25,0.3822043240070343
+1,0,As it pertains to fibrinogen  however  one must distinguish a decrease in normal fibrinogen from the production of an abnormal fibrinogen dysfibrinogenemia ,25,0.25,0.5459948778152466
+1,0,Acquired deficiency of fibrinogen is usually due to a consumptive coagulopathy or  less often  severe liver disease ,25,0.25,0.8907256722450256
+1,0,Hereditary deficiencies exist  but with variable clinical presentations ,25,0.25,0.8025863170623779
+1,0,Afibrinogenemia is an often fatal childhood condition ,25,0.25,0.9974707365036011
+0,0,Abnormal fibrinogen dysfibrinogenemia can be acquired or inherited ,25,0.25,0.1805342435836792
+0,0,The acquired form is usually found in association with severe liver disease  but has been reported in other diseases ,25,0.25,6.816935638198629e-05
+1,0,The congenital form is rare  usually autosomal dominant ,25,0.25,0.9480013251304626
+1,0,A discordance between immunologic and physiologic measurements of fibrinogen is the key to diagnosis ,25,0.25,0.9958311319351196
+0,0,The most common acquired inhibitors of this reaction are heparin and fibrin degradation products FDP ,25,0.25,0.002706289291381836
+0,0,The effect of heparin can be eliminated by catalyzing the reaction with reptilase  which  unlike thrombin  is insensitive to heparin ,25,0.25,0.00012005768076051027
+1,0,FDP are commonly seen in consumptive coagulopathies and primary fibrinolytic states ,25,0.25,0.986107349395752
+1,1,The syndromes of primary neurologic disease with autonomic insufficiency require very careful evaluation and differentiation ,25,0.25,0.861544668674469
+1,0,In progressive autonomic failure Bradbury Eggleston syndrome or idiopathic orthostatic hypotension the symptoms of autonomic failure are an early manifestation ,25,0.25,0.9936739802360535
+1,0,The history at the time the patient first seeks care is of postural syncope ,25,0.25,0.8494449853897095
+0,0,It may also include genitourinary or bowel symptoms  but these usually are revealed in the review of systems rather than offered spontaneously by the patient ,25,0.25,0.0007212162017822266
+0,0,This syndrome  although progressive  develops slowly ,25,0.25,0.00048473477363586426
+0,0,The patient can live for many years in relative comfort once effective blood pressure control is achieved ,25,0.25,0.03850308060646057
+1,0,Conversely  the Shy Drager syndrome is a more rapidly progressive illness and is much more problematic in its management ,25,0.25,0.26473841071128845
+1,0,The dysautonomic symptoms usually follow the appearance of signs of other aspects of neurologic degeneration ,25,0.25,0.3784691393375397
+0,0,The Parkinson like symptoms common in this syndrome are particularly difficult to manage and may actually make management of the postural dizziness more difficult ,25,0.25,0.17977949976921082
+0,0,The drug l dopa  for example  may be useful for the control of rigidity  but is one that can cause orthostatic hypotension ,25,0.25,0.04839545488357544
+1,0,In addition  there appears to be more than one form of neurologic degenerative illness present in the cluster of patients who have been diagnosed as having Shy Drager syndrome ,25,0.25,0.7441238164901733
+0,0,While they all ultimately develop dysautonomia  some have this only in conjunction with Parkinson like abnormalities consistent with olivo ponto cerebellar degeneration ,25,0.25,0.00015863776206970215
+1,0,Others may have different distributions of neurologic abnormalities including both sensory system abnormalities and voluntary motor dysfunction ,25,0.25,0.7463194131851196
+1,1,The kidneys and lungs maintain daily acid base balance ,25,0.5,0.9890879392623901
+1,0,Understanding this normal physiology allows us to appreciate abnormalities ,25,0.5,0.9968290328979492
+0,0,This discussion refers to bicarbonate rather than total CO content  as we measure total CO content as a surrogate for bicarbonate ,25,0.5,1.0348582009100937e-06
+1,0,Bicarbonate and carbonic acid constitute the major buffer pair in body fluids ,25,0.5,0.9903116226196289
+0,0,Carbonic acid dissociates into hydrogen ion and bicarbonate with a dissociation constant of ,25,0.5,0.061580657958984375
+0,0,× ,25,0.5,3.489150685709319e-06
+0,0,Carbonic acid also maintains an equilibrium with HO and CO ,25,0.5,0.00025773048400878906
+1,0,We usually describe dissociation constants and hydrogen ion concentrations as negative logarithms ,25,0.5,0.9173730611801147
+0,0,Thus  the negative logarithm of the dissociation constant equals ,25,0.5,0.003701716661453247
+0,0,This value is called the pKa ,25,0.5,2.70647433353588e-05
+1,0,Normal hydrogen ion concentration equals  nanoequivalentsliter  corresponding to a pH of ,25,0.5,0.9844950437545776
+0,0,The familiar Henderson Hasselbalch equation derives from these facts ,25,0.5,0.49099284410476685
+1,0,Carbonic acid concentration is proportional to the partial pressure of carbon dioxide pCO in the blood ,25,0.5,0.5019636750221252
+0,0,Multiplying the pCO by a constant ,25,0.5,9.705243428470567e-05
+0,0,estimates the carbonic acid concentration  giving the useful form of the above equation ,25,0.5,0.3609716296195984
+0,0,Changes in hydrogen ion concentration pH result from changes in either bicarbonate or carbon dioxide ,25,0.5,0.13278761506080627
+0,0,Measurement of total CO content can help us explain acid base disorders when the pH and pCO are known ,25,0.5,0.42825114727020264
+1,0,Furthermore  since we often measure total CO content as part of automated chemistry determinations  this measurement can provide the first clue to acid base disturbances ,25,0.5,0.9978864192962646
+0,0,We produce approximately  mEqkg daily of hydrogen ions derived from metabolism of proteins primarily ,25,0.5,0.03218710422515869
+0,0,The kidney normally excretes this daily acid load ,25,0.5,0.010700225830078125
+0,0,Failure of excretion forces the reaction of H+ and HCO  resulting in a decrease of bicarbonate concentration ,25,0.5,0.0010358691215515137
+1,0,Bicarbonate reabsorption occurs primarily in the proximal tubule ,25,0.5,0.9997456073760986
+0,0,Carbonic anhydrase controls this absorption ,25,0.5,4.929018177790567e-05
+1,0,The patient's volume status has a major influence on absorption  since sodium is reabsorbed along with this bicarbonate ,25,0.5,0.8374027013778687
+0,0,Thus  volume contraction stimulates both sodium and bicarbonate reabsorption ,25,0.5,0.42867016792297363
+0,0,This results in an increased total CO content ,25,0.5,6.756143557140604e-05
+0,0,Likewise  volume expansion can lead to a mild decrease in total CO content ,25,0.5,0.00018578767776489258
+1,0,Hydrogen ion concentration pH is another major determinant of bicarbonate reabsorption ,25,0.5,0.8383623957633972
+1,0,Thus  the kidney will respond to changes in ventilation pCO with compensatory changes in bicarbonate reabsorption ,25,0.5,0.9556677937507629
+0,0,For example  chronic hypoventilation  pCO causes a decreased pH ,25,0.5,0.04012063145637512
+0,0,This decreased pH stimulates bicarbonate reabsorption  thus the patient will have an increased total CO content ,25,0.5,0.007225483655929565
+1,1,Interpersonal relationships refer to reciprocal social and emotional interactions between the patient and other persons in the environment ,25,0.5,0.9916818141937256
+1,0,Almost every mental disorder is accompanied by problems in this respect ,25,0.5,0.9941884875297546
+1,0,Frequently a basic cause of conflict with other people is the presence of some psychiatric disorder ,25,0.5,0.904557466506958
+0,0,Major areas in which these conflicts may occur include the following relations ,25,0.5,0.014735549688339233
+0,0,  Family  Social  Work  Religious  Sexual ,25,0.5,0.2199987769126892
+1,1,The character of flank pain is very helpful in determining the cause ,25,0.5,0.9180818200111389
+0,0,Important characteristics include local or referred pain  acute or chronic or recurrent pain  degree of severity  and duration ,25,0.5,0.38375765085220337
+1,0,Associated symptoms such as fever  nausea and vomiting  and atrial fibrillation often help in making the correct diagnosis ,25,0.5,0.6291998624801636
+1,0,Flank pain that radiates to the ipsilateral testicle is usually caused by proximal ureteral or renal pelvic obstruction due to the common innervation of the testicle and the renal pelvis T ,25,0.5,0.9999657869338989
+0,0,This pain usually originates in the posterior part of the flank and radiates to the testicle of the male or the labia of the female ,25,0.5,0.13976287841796875
+0,0,The pain becomes lower and more anterior in the flank when the obstruction occurs in the middle third of the ureter ,25,0.5,0.020770490169525146
+1,0,The pain is still lower  radiates to the scrotal skin rather than the testicle  and is associated with voiding symptoms such as urinary frequency and urgency when the obstruction occurs at the level of the ureterovesical junction ,25,0.5,0.9752442240715027
+0,0,The degree of severity of the pain is directly related to the acuteness of the obstruction rather than the degree of obstruction ,25,0.5,0.000265270471572876
+0,0,Therefore  a stone that passes into the ureter and suddenly becomes lodged in one position usually causes extremely severe pain ,25,0.5,0.02075687050819397
+1,0,But flank pain can be very mild or absent in the presence of very severe but chronic obstruction ,25,0.5,0.6192482113838196
+1,0,Mild and chronic flank pain associated with severe ureteral obstruction can produce irreversible renal damage ,25,0.5,0.9849547147750854
+0,0,A stone passing through the ureter will often cause severe but intermittent pain ,25,0.5,0.014366954565048218
+1,0,The intermittent pain is related to obstruction produced when the stone becomes lodged in the ureter ,25,0.5,0.7223786115646362
+0,0,Therefore  each episode of pain is likely to be associated with a stone becoming lodged in a new and more distal position in the ureter ,25,0.5,0.0007281899452209473
+0,0,Flank pain is often associated with less specific symptoms including fever  nausea and vomiting  and tachycardia ,25,0.5,0.03731498122215271
+1,0,Fever suggests infection proximal to the ureteral obstruction ,25,0.5,0.7675454616546631
+1,0,Flank pain associated with fever requires a prompt diagnosis of ureteral obstruction and relief of the obstruction because infection proximal to the obstruction causes much more rapid renal damage than occurs with obstruction in the absence of infection ,25,0.5,0.8822988271713257
+0,0,Also  the patient is susceptible to septicemia in the presence of infection proximal to a ureteral obstruction ,25,0.5,0.0159643292427063
+1,0,Gross or microscopic hematuria helps to confirm a urinary cause of the pain ,25,0.5,0.9395189881324768
+0,0,Hematuria is occasionally absent with acute ureteral obstruction  however  and is often absent with chronic obstruction ,25,0.5,0.020888179540634155
+0,0,Although ureteral stone is the most common cause of flank pain  many other causes should be considered see Table ,25,0.5,0.29348522424697876
+0,0,Flank pain resulting from acute ureteral obstruction can also be caused by blood clots or sloughed renal papillae passing through the ureter ,25,0.5,0.27649009227752686
+1,0,Blood clots can be produced by many pathologic lesions of the kidney  tumors being the most common cause ,25,0.5,0.8812580108642578
+0,0,Renal papillary necrosis should be considered in patients with a history of analgesic abuse or diabetes mellitus ,25,0.5,0.33256810903549194
+0,0,Flank pain caused by chronic ureteral obstruction is generally much less severe ,25,0.5,0.201370507478714
+1,0,Occasionally  congenital anomalies such as ureteropelvic junction obstruction produce flank pain associated with a diuresis after oral intake of a large volume of fluid ,25,0.5,0.9019265174865723
+1,0,Bilateral chronic ureteral obstruction or ureteral obstruction of a solitary kidney can be associated with symptoms of renal failure such as apathy  lethargy  anorexia  muscle twitching  headache  hypertension  and poor growth of a child ,25,0.5,0.9875165224075317
+1,0,A dull or mild flank pain should make the clinician consider many possible causes including congenital ureteral obstruction  ureteral tumor or an extrinsic tumor compressing the ureter  acquired stricture of the ureter due to a previous operation or radiation therapy  retroperitoneal fibrosis  and a ureteral stone ,25,0.5,0.9902490377426147
+1,0,Flank pain caused by renal inflammation generally is not as sudden in onset or as severe as pain caused by acute ureteral obstruction ,25,0.5,0.6438979506492615
+1,0,Renal inflammation usually produces localized pain and is associated with other manifestations of infection such as fever  leukocytosis  and bacteriuria ,25,0.5,0.7934056520462036
+1,0,Flank pain can be caused by different types of renal tumors  but pain is not the most common presenting symptom  and when pain is present  it often is associated with other symptoms ,25,0.5,0.9214353561401367
+1,0,Hematuria is the most common symptom seen in tumors presenting in adults  an abdominal mass is the most common presenting symptom of Wilms tumor in childhood ,25,0.5,0.9912523031234741
+1,0,Uncommon causes of flank pain include renal trauma  renal infarction  and vesicoureteral reflux even in the absence of infection ,25,0.5,0.9811124801635742
+1,0,Renal infarction should be considered in patients with atrial fibrillation or a recent myocardial infarction ,25,0.5,0.6776522397994995
+1,0,Vesicoureteral reflux occasionally causes mild flank pain due to distention of the ureter and renal pelvis when the reflux occurs while voiding ,25,0.5,0.9914689064025879
+1,0,A patient should be suspected of being an analgesic abuser when he or she presents with a history of acute severe flank pain  uric acid stones  previous reactions to contrast media  and a residence a great distance away ,25,0.5,0.9791768789291382
+0,0,The physician should not be fooled by hematuria because narcotic addicts find ways to place blood in their urine specimens ,25,0.5,0.002407163381576538
+0,0,Extraurinary diseases of the abdomen and chest can also cause flank pain ,25,0.5,0.26157885789871216
+0,0,These diseases produce pain less characteristic of the typical renal colic seen with acute ureteral obstruction ,25,0.5,0.01005062460899353
+1,0,Nevertheless  this vague  dull  mild flank pain is similar to the pain seen with chronic ureteral obstruction  making the differential diagnosis unclear ,25,0.5,0.7528048753738403
+1,0,The correct diagnosis is made by thinking of all the diseases that have been discussed  considering the associated symptoms  physical examination  urinalysis  and performing carefully selected laboratory tests and radiographic studies ,25,0.5,0.9992152452468872
+0,1,Albumin makes up more than half of the total protein present in serum ,25,0.5,0.08431640267372131
+1,0,Approximately  to  of the body's total albumin pool is found in the intravascular compartment ,25,0.5,0.8507448434829712
+0,0,The remainder is extravascular and is located in the interstitial spaces  mainly of the muscles and skin ,25,0.5,0.025548100471496582
+0,0,Albumin is also found in small amounts in a variety of body tissue fluids such as sweat  tears  gastric juice  and bile ,25,0.5,0.2938728332519531
+0,0,Albumin does not diffuse freely through intact vascular endothelium ,25,0.5,0.020126432180404663
+1,0,Hence  it is the major protein providing the critical colloid osmotic or oncotic pressure that regulates passage of water and diffusable solutes through the capillaries ,25,0.5,0.991267204284668
+0,0,Albumin accounts for  of the colloid osmotic pressure ,25,0.5,0.0066769421100616455
+0,0,It exerts a greater osmotic force than can be accounted for solely on the basis of the number of molecules dissolved in the plasma  and for this reason it cannot be completely replaced by inert substances such as dextran ,25,0.5,0.03642621636390686
+1,0,The reason is that albumin has a negative charge at normal blood pH and attracts and retains cations  especially Na+ in the vascular compartment ,25,0.5,0.9434322714805603
+0,0,This is called the Gibbs Donnan effect ,25,0.5,8.613888553554716e-07
+0,0,Albumin also binds a small number of Cl ions that increase its negative charge and ability to retain Na+ ions inside the capillaries ,25,0.5,0.3207537829875946
+0,0,This enhanced osmotic force causes the colloid osmotic pressure to be  greater than it would be by protein concentration alone ,25,0.5,0.00021952390670776367
+1,0,Albumin serves in the transport of bilirubin  hormones  metals  vitamins  and drugs ,25,0.5,0.9992637038230896
+1,0,It has an important role in fat metabolism by binding fatty acids and keeping them in a soluble form in the plasma ,25,0.5,0.6128286123275757
+1,0,This is one reason why hyperlipemia occurs in clinical situations of hypoalbuminemia ,25,0.5,0.683458685874939
+0,0,The binding of hormones by albumin regulates the amount of free hormone available at any time ,25,0.5,0.4476718306541443
+0,0,Because of its negative charge  albumin is also able to furnish some of the anions needed to balance the cations of the plasma ,25,0.5,0.002510756254196167
+0,0,Albumin is synthesized in the liver ,25,0.5,0.2974778413772583
+1,0,The rate of synthesis is constant in normal individuals at  to  mgkgday  resulting in the production of  to  g of albumin daily in a  kg man ,25,0.5,0.8262442946434021
+0,0,The liver produces albumin at less than half of its capacity ,25,0.5,0.0007660090923309326
+1,0,The primary factors affecting albumin synthesis include protein and amino acid nutrition  colloidal osmotic pressure  the action of certain hormones  and disease states ,25,0.5,0.9978166818618774
+0,0,Fasting or a protein deficient diet cause a decrease in albumin synthesis as long as the deficiency state is maintained ,25,0.5,0.005373924970626831
+1,0,In the normal individual  the liver increases albumin synthesis in response to the increased availability of amino acids provided by the portal blood following each protein containing meal ,25,0.5,0.9951208829879761
+1,0,A decrease in extravascular colloidal pressure serves as a stimulus for albumin synthesis and is thought to act within the liver ,25,0.5,0.8536117076873779
+0,0,Thyroid hormone  corticosteroids  growth hormone  and insulin all can increase albumin synthesis ,25,0.5,0.03675574064254761
+1,0,The main site of albumin degradation is not known ,25,0.5,0.8862414360046387
+1,0,Albumin appears to be catabolized in locations that are capable of rapid equilibration with the bloodstream ,25,0.5,0.9909275770187378
+0,0,It is degraded into amino acids that are utilized for energy requirements of the cell or secreted into the pool of extracellular amino acids ,25,0.5,0.2451607584953308
+1,0,The globulin fraction includes hundreds of serum proteins including carrier proteins  enzymes  complement  and immunoglobulins ,25,0.5,0.9997939467430115
+0,0,Most of these are synthesized in the liver  although the immunoglobulins are synthesized by plasma cells ,25,0.5,0.09143075346946716
+0,0,Globulins are divided into four groups by electrophoresis ,25,0.5,0.004341781139373779
+0,0,The four fractions are a  a  b and g  depending on their migratory pattern between the anode and the cathode ,25,0.5,0.22183090448379517
+0,0,Increases in the globulin fraction usually result from an increase in immunoglobulins  but there can be an increase in other proteins in pathologic states that have characteristic electrophoretic patterns see Figures ,25,0.5,0.04472735524177551
+1,0,Malnutrition and congenital immune deficiency can cause a decrease in total globulins due to decreased synthesis  and nephrotic syndrome can cause a decrease due to protein loss through the kidney ,25,0.5,0.9987210035324097
+0,0,Immunoglobulins i e   antibodies migrate mainly in the g region  but some migrate in the b and a regions as well ,25,0.5,0.0005173087120056152
+0,0,Each immunoglobulin molecule is composed of two heavy chains that are of the same class and two light chains that are also alike ,25,0.5,0.003082364797592163
+1,0,Each heavy chain has a variable region in which amino acid substitutes make each chain different from the next and a constant region in which there are very few amino acid differences from the constant region of any other immunoglobulin of that heavy chain type ,25,0.5,0.6446049213409424
+0,0,Light chains are of either l or k type and have constant and variable regions ,25,0.5,0.059136390686035156
+1,0,The different kinds of immunoglobulins are named by capital letters that correspond to their heavy chain type  IgG  IgA  IgM  IgE  and IgD ,25,0.5,0.9000637531280518
+0,0,Three fourths of the immunoglobulin level in normal serum is of the IgG type ,25,0.5,0.013193875551223755
+0,0,Many antibodies to bacteria and viruses are IgG ,25,0.5,0.0061609745025634766
+1,0,The normal collection of IgG molecules is made up of minute amounts of different IgG antibodies produced from diverse clones of plasma cells  thus it is polyclonal ,25,0.5,0.9992095232009888
+0,0,If a single clone escapes its normal controls  it can reproduce excessively and synthesize an excess of a monoclonal protein with a single heavy chain class and light chain type ,25,0.5,0.038201093673706055
+1,1,There are four major circumstances in which an eating behavior can be considered a pica ,25,0.5,0.9990051984786987
+1,0,These circumstances are disparate enough to reduce the likelihood that one underlying abnormality accounts for all pica ,25,0.5,0.8480588793754578
+1,0,In a very general sense  the disorder originates from either behavioral or biochemical sources ,25,0.5,0.9688672423362732
+0,0,The somewhat loose use of the term pica  though  makes it difficult to generalize and contributes to the lack of an all embracing hypothesis ,25,0.5,0.015916109085083008
+0,0,A mentally disturbed or retarded person may impulsively ingest any available object  suffering the medical consequences thereof ,25,0.5,0.032470911741256714
+0,0,Persons with an obsessive personality disorder may fixate on an ingestion activity ,25,0.5,0.11226421594619751
+1,0,These persons have behavioral abnormalities in which the ingestion activity pica is more the choice of a disordered mind than a response to a biochemical deficiency ,25,0.5,0.9321680068969727
+0,0,The mouthing activity of children is at least in part a learning behavior and may not represent a pica ,25,0.5,0.2149093747138977
+1,0,Children seem to derive as much tactile information from inserting objects into the mouth as touching with the fingers ,25,0.5,0.9691423177719116
+0,0,This discovery process  unfortunately  can have adverse medical consequences  highlighted by the problem of lead poisoning ,25,0.5,0.037211835384368896
+1,0,Ingestion of paint chips or plaster may originate as an innocent mouthing activity but develop into a true pica  perhaps due to the semisweet taste of lead based paints ,25,0.5,0.9588252305984497
+0,0,Some investigators believe that a pica in childhood has the same significance as in adults ,25,0.5,0.005309343338012695
+1,0,They point to the fact that many milk fed children become iron deficient and contend that compulsive drinking of milk or eating of paint chips  dirt  and so on  reflects the same poorly understood craving as in adults ,25,0.5,0.9825010299682617
+0,0,A third important circumstance in which a pica is found is the compulsive ingestion of dirt or clay  as practiced in the rural South or by migrants from that region ,25,0.5,0.4228844940662384
+1,0,This geophagia seems to have originated as an ethnic cultural habit passed down from mother to child ,25,0.5,0.9975674152374268
+0,0,Children of both sexes learn the behavior as toddlers and generally outgrow the activity a few years later ,25,0.5,1.9731243810383603e-05
+0,0,Daughters  however  are re introduced to the behavior years later  often during a first pregnancy ,25,0.5,0.036174654960632324
+1,0,Pregnancy is a time when many women are iron deficient  but the behavior seems to be widespread enough for a deficiency not to be the complete explanation ,25,0.5,0.9571709036827087
+0,0,Geophagia manages to persist even with migration ,25,0.5,0.005712717771530151
+1,0,Older black women in the Midwest recall being sent shoeboxes filled with clay from relatives in the deep South ,25,0.5,0.7888310551643372
+1,0,In fact  clay from certain sites was highly regarded for its taste  and clay from substitute sites was quickly spotted ,25,0.5,0.8538930416107178
+0,0,In more recent years  geophagia may have been replaced by amylophagia starch eating  which is considered more sanitary ,25,0.5,1.7343219951726496e-05
+1,0,Although many women who have this pica may be nutritionally deficient  the bulk of the evidence suggests that an ethnic cultural practice is the explanation Vermeer and Frate ,25,0.5,0.9996241927146912
+1,0,The majority of pica seen by physicians in Western countries can be traced to iron deficiency  with or without anemia ,25,0.5,0.9984956979751587
+0,0,In fact  a pica may be detected in as many as  of all persons with iron deficiency ,25,0.5,0.0725659728050232
+1,0,Crosby  is the most prominent proponent of the idea that a pica is a manifestation of a lack of iron stores and not of the anemia itself ,25,0.5,0.9293642044067383
+0,0,He points out that pica is not common in other anemias ,25,0.5,0.0006977319717407227
+0,0,The pica also disappears  in most cases  once iron replacement begins and long before the anemia is corrected ,25,0.5,0.11504143476486206
+1,0,He wryly notes that in most cases the choice of material ingested rarely is a good source of the missing mineral ,25,0.5,0.6272290945053101
+0,0,For a pica to occur  it is not important how the iron deficiency develops ,25,0.5,0.0016994774341583252
+1,0,Hence  a pica may be seen whether the person has a chronic gastrointestinal bleed  menorrhagia  inadequate diet  or any of the other causes of iron loss ,25,0.5,0.9966750741004944
+1,0,There is no good explanation  however  for why an eating behavior is a manifestation of iron deficiency ,25,0.5,0.7832278609275818
+1,0,It is true that the mineral is found in some important enzyme systems involving taste and digestion ,25,0.5,0.9900178909301758
+0,0,In some way  perhaps deficiency of iron in those enzymes could induce an iron seeking behavior ,25,0.5,1.4464652849710546e-05
+1,0,An entirely different explanation relates to the observation that certain lesions of the brain may result in hyperphagia ,25,0.5,0.9846582412719727
+0,0,It has been noted that those sites are high in iron content ,25,0.5,3.573183494154364e-05
+0,0,The extrapolation  then  is that lack of iron in those sites induces hyperphagia again  iron seeking  of which the pica is a manifestation ,25,0.5,0.40411972999572754
+0,0,This hypothesis has never been put to experimental trial ,25,0.5,0.0023422837257385254
+1,0,Pica is not necessarily a manifestation of iron deficiency only ,25,0.5,0.6079151034355164
+0,0,Zinc deficiency has also been noted as a cause of pica  and it is not unreasonable to suspect that other minerals may be implicated ,25,0.5,0.014932304620742798
+1,1,These in vitro teststhe activated partial thromboplastin time aPTT  prothrombin time PT  and thrombin time TTmeasure the time elapsed from activation of the coagulation cascade Figure ,25,0.5,0.9259200096130371
+0,0,at different points to the generation of fibrin ,25,0.5,0.09928330779075623
+0,0,The aPTT measures the time necessary to generate fibrin from initiation of the intrinsic pathway Figure ,25,0.5,0.26052767038345337
+1,0,Activation of factor XII is accomplished with an external agent e g   kaolin capable of activating factor XII without activating factor VII ,25,0.5,0.8701721429824829
+0,0,Since platelet factors are necessary for the cascade to function normally  the test is performed in the presence of a phospholipid emulsion that takes the place of these factors ,25,0.5,0.06061527132987976
+1,0,The classic partial thromboplastin time depends on contact with a glass tube for activation ,25,0.5,0.9940893650054932
+0,0,Since this is considered a difficult variable to control  the activated test uses an external source of activation ,25,0.5,0.004000663757324219
+0,0,Citrated plasma  an activating agent  and phospholipid are added together and incubated at °C ,25,0.5,0.002176225185394287
+1,0,Calcium is added  and the time necessary for the clumping of kaolin is measured ,25,0.5,0.960157036781311
+0,0,The normal time is usually reported as less than  to  seconds depending on the technique used ,25,0.5,0.00609859824180603
+0,0,In fact  there is a normal range of about  seconds e g    to   and decreased values short may also be abnormal ,25,0.5,0.0001430213451385498
+1,0,This test is abnormal in the presence of reduced quantities of factors XII  IX  XI  VIII  X  V  prothrombin  and fibrinogen all integral parts of the intrinsic and common pathway ,25,0.5,0.999975323677063
+0,0,It is usually prolonged if a patient has less than approximately  normal activity ,25,0.5,0.0018107593059539795
+0,0,It can also be abnormal in the presence of a circulating inhibitor to any of the intrinsic pathway factors ,25,0.5,0.0028412938117980957
+1,0,The differentiation of inhibitors from factor depletion is important and can best be accomplished by a mixing study in which patient and normal plasma are combined in a   ratio and the test is repeated on the mixed sample ,25,0.5,0.998132586479187
+0,0,If the abnormal value is corrected completely  the problem is factor deficiency ,25,0.5,0.013106435537338257
+0,0,If the result does not change or the abnormality is corrected only partially  an inhibitor is present ,25,0.5,0.021336406469345093
+0,0,This difference stems from the above mentioned fact that the aPTT will be normal in the presence of  normal activity ,25,0.5,0.0506134033203125
+1,0,The aPTT is a good screening test for inherited or acquired factor deficiencies ,25,0.5,0.9930746555328369
+1,0,Inherited disorders including classic hemophilia A factor VIII deficiency and hemophilia B factor IX deficiency  or Christmas disease are well known diseases in which the aPTT is prolonged ,25,0.5,0.9952206611633301
+0,0,Other intrinsic and common pathway factors may also be congenitally absent ,25,0.5,3.248995926696807e-05
+1,0,These conditions are rare but have been described for all factors ,25,0.5,0.9564543962478638
+0,0,A number of kindreds with abnormalities of factor XII activation have been described ,25,0.5,0.04911622405052185
+0,0,They are usually associated with a prolonged aPTT without clinical signs of bleeding ,25,0.5,0.0004366636276245117
+0,0,Acquired factor deficiency is common ,25,0.5,0.32964372634887695
+0,0,Vitamin K deficiency  liver dysfunction  and iatrogenic anticoagulation with warfarin are most common ,25,0.5,0.008377879858016968
+0,0,Factor depletion may also occur in the setting of disseminated intravascular coagulation DIC  prolonged bleeding  and massive transfusion ,25,0.5,0.05877190828323364
+1,0,A prolonged aPTT that cannot be completely normalized with the addition of normal plasma can be explained only by the presence of a circulating inhibitor of coagulation ,25,0.5,0.9121697545051575
+0,0,The presence of these inhibitors is almost always acquired  and their exact nature is not always apparent ,25,0.5,0.365965336561203
+0,0,From a clinical point of view  the most common inhibitors should be considered antithrombins ,25,0.5,0.0007654726505279541
+0,0,These compounds inhibit the activity of thrombin on the conversion of fibrinogen to fibrin Figure ,25,0.5,0.0007071495056152344
+1,0,The two most common inhibitors are heparin  which acts through the naturally occurring protein antithrombin III AT III  and fibrin degradation products FDP  formed by the action of plasmin on the fibrin clot and usually present in elevated concentrations in DIC and primary fibrinolysis ,25,0.5,0.9927887320518494
+0,0,Other inhibitors appear to be antibodies ,25,0.5,1.0974938646768351e-07
+1,0,The easiest to understand is the antibody against factor VIII in patients with hemophilia A treated with factor VIII concentrate ,25,0.5,0.9964032173156738
+1,0,Inhibitors against other factors have been described with a variety of diseases that follow a variable course ,25,0.5,0.9701429605484009
+0,0,When characterized  they have been immunoglobulins ,25,0.5,0.00010545597615418956
+0,0,A particular problem may be seen in patients suffering from systemic lupus erythematosus ,25,0.5,0.008433312177658081
+0,0,These patients may present with a prolonged aPTT without evidence of bleeding ,25,0.5,0.00017261505126953125
+0,0,Some present with thrombosis ,25,0.5,5.352348307496868e-05
+1,0,The abnormality cannot be corrected with normal plasma and has been referred to as the lupus anticoagulant ,25,0.5,0.9973937273025513
+0,0,This phenomenon does not represent an in vivo problem with the coagulation cascade ,25,0.5,3.821843711193651e-05
+1,0,Rather  it is a laboratory abnormality caused by the presence of a serum constituent that interferes with the in vitro partial thromboplastin test ,25,0.5,0.5060825347900391
+0,0,Occasionally the reported value of the aPTT will be lower than normal ,25,0.5,1.8180635379394516e-05
+0,0,This shortened time may reflect the presence of increased levels of activated factors in context of a hypercoagulable state ,25,0.5,0.0014168024063110352
+0,0,It is seen in some patients in the early stages of DIC but should not be considered diagnostic for that entity ,25,0.5,0.24738112092018127
+1,0,The PT measures the time necessary to generate fibrin after activation of factor VII ,25,0.5,0.9431260228157043
+1,0,It measures the integrity of the extrinsic and common pathways factors VII  V  X  prothrombin  and fibrinogen ,25,0.5,0.9747332334518433
+1,0,Citrated plasma and an activating agent usually thromboplastin extracted from animal brain are incubated at °C ,25,0.5,0.9831534624099731
+0,0,The plasma is recalcified and the time is measured until fibrin filaments are observed ,25,0.5,0.09121426939964294
+0,0,Each laboratory has its own normal value  usually between  and  seconds ,25,0.5,0.0301075279712677
+0,0,As with the interpretation of a prolonged aPTT  a prolonged PT may reflect either factor deficiency or a circulating inhibitor of coagulation ,25,0.5,0.01290518045425415
+1,0,The distinction is made by repeating the test after a   mix with normal plasma ,25,0.5,0.6445298790931702
+0,0,The test is more sensitive than the aPTT for deficient levels of factors  and a relatively small drop in factor VII levels may prolong the PT ,25,0.5,8.705749496584758e-05
+1,0,Inherited deficiency of factor VII is a rare bleeding disorder characterized by a prolonged PT and a normal aPTT ,25,0.5,0.9999955892562866
+0,0,The PT completely corrects when mixed with normal plasma ,25,0.5,0.0007900893688201904
+1,0,Acquired deficiencies are usually related to liver disease  warfarin therapy  or depletion secondary to consumptive coagulopathy  severe bleeding  or massive transfusion ,25,0.5,0.9990825653076172
+0,0,Circulating inhibitors are most often directed at factor X or thrombin ,25,0.5,0.3799898028373718
+0,0,Most common are heparin or products of fibrinolysis ,25,0.5,0.1455363929271698
+0,0,In their presence the prolonged PT cannot be completely corrected to normal in a   mixing study ,25,0.5,0.022372007369995117
+1,0,This test measures the time necessary to drive the reaction of fibrinogen to fibrin in the presence of thrombin ,25,0.5,0.8489559888839722
+1,0,It measures the integrity of this reaction and isolates an abnormality to either a decrease in normal fibrinogen or an inhibitor to its activation ,25,0.5,0.6674971580505371
+0,0,Citrated plasma is incubated at °C and thrombin is added to the solution ,25,0.5,0.05231645703315735
+1,0,Time is measured from the addition of thrombin to the generation of fibrin filaments ,25,0.5,0.9944618940353394
+0,0,Calcium is unnecessary ,25,0.5,0.0002624094486236572
+1,0,Abnormalities can be explained in one of three ways  deficient fibrinogen <  mgdl  abnormal fibrinogen  or an inhibitor to the reaction ,25,0.5,0.9557824730873108
+0,0,As with other tests of the coagulation cascade  if a   mixing study normalizes the prolonged time  one is dealing with factor deficiency ,25,0.5,0.3822043240070343
+1,0,As it pertains to fibrinogen  however  one must distinguish a decrease in normal fibrinogen from the production of an abnormal fibrinogen dysfibrinogenemia ,25,0.5,0.5459948778152466
+1,0,Acquired deficiency of fibrinogen is usually due to a consumptive coagulopathy or  less often  severe liver disease ,25,0.5,0.8907256722450256
+1,0,Hereditary deficiencies exist  but with variable clinical presentations ,25,0.5,0.8025863170623779
+1,0,Afibrinogenemia is an often fatal childhood condition ,25,0.5,0.9974707365036011
+0,0,Abnormal fibrinogen dysfibrinogenemia can be acquired or inherited ,25,0.5,0.1805342435836792
+0,0,The acquired form is usually found in association with severe liver disease  but has been reported in other diseases ,25,0.5,6.816935638198629e-05
+1,0,The congenital form is rare  usually autosomal dominant ,25,0.5,0.9480013251304626
+1,0,A discordance between immunologic and physiologic measurements of fibrinogen is the key to diagnosis ,25,0.5,0.9958311319351196
+0,0,The most common acquired inhibitors of this reaction are heparin and fibrin degradation products FDP ,25,0.5,0.002706289291381836
+0,0,The effect of heparin can be eliminated by catalyzing the reaction with reptilase  which  unlike thrombin  is insensitive to heparin ,25,0.5,0.00012005768076051027
+1,0,FDP are commonly seen in consumptive coagulopathies and primary fibrinolytic states ,25,0.5,0.986107349395752
+1,1,The syndromes of primary neurologic disease with autonomic insufficiency require very careful evaluation and differentiation ,25,0.5,0.861544668674469
+1,0,In progressive autonomic failure Bradbury Eggleston syndrome or idiopathic orthostatic hypotension the symptoms of autonomic failure are an early manifestation ,25,0.5,0.9936739802360535
+1,0,The history at the time the patient first seeks care is of postural syncope ,25,0.5,0.8494449853897095
+0,0,It may also include genitourinary or bowel symptoms  but these usually are revealed in the review of systems rather than offered spontaneously by the patient ,25,0.5,0.0007212162017822266
+0,0,This syndrome  although progressive  develops slowly ,25,0.5,0.00048473477363586426
+0,0,The patient can live for many years in relative comfort once effective blood pressure control is achieved ,25,0.5,0.03850308060646057
+0,0,Conversely  the Shy Drager syndrome is a more rapidly progressive illness and is much more problematic in its management ,25,0.5,0.26473841071128845
+0,0,The dysautonomic symptoms usually follow the appearance of signs of other aspects of neurologic degeneration ,25,0.5,0.3784691393375397
+0,0,The Parkinson like symptoms common in this syndrome are particularly difficult to manage and may actually make management of the postural dizziness more difficult ,25,0.5,0.17977949976921082
+0,0,The drug l dopa  for example  may be useful for the control of rigidity  but is one that can cause orthostatic hypotension ,25,0.5,0.04839545488357544
+1,0,In addition  there appears to be more than one form of neurologic degenerative illness present in the cluster of patients who have been diagnosed as having Shy Drager syndrome ,25,0.5,0.7441238164901733
+0,0,While they all ultimately develop dysautonomia  some have this only in conjunction with Parkinson like abnormalities consistent with olivo ponto cerebellar degeneration ,25,0.5,0.00015863776206970215
+1,0,Others may have different distributions of neurologic abnormalities including both sensory system abnormalities and voluntary motor dysfunction ,25,0.5,0.7463194131851196
+1,1,The kidneys and lungs maintain daily acid base balance ,25,0.75,0.9890879392623901
+1,0,Understanding this normal physiology allows us to appreciate abnormalities ,25,0.75,0.9968290328979492
+0,0,This discussion refers to bicarbonate rather than total CO content  as we measure total CO content as a surrogate for bicarbonate ,25,0.75,1.0348582009100937e-06
+1,0,Bicarbonate and carbonic acid constitute the major buffer pair in body fluids ,25,0.75,0.9903116226196289
+0,0,Carbonic acid dissociates into hydrogen ion and bicarbonate with a dissociation constant of ,25,0.75,0.061580657958984375
+0,0,× ,25,0.75,3.489150685709319e-06
+0,0,Carbonic acid also maintains an equilibrium with HO and CO ,25,0.75,0.00025773048400878906
+1,0,We usually describe dissociation constants and hydrogen ion concentrations as negative logarithms ,25,0.75,0.9173730611801147
+0,0,Thus  the negative logarithm of the dissociation constant equals ,25,0.75,0.003701716661453247
+0,0,This value is called the pKa ,25,0.75,2.70647433353588e-05
+1,0,Normal hydrogen ion concentration equals  nanoequivalentsliter  corresponding to a pH of ,25,0.75,0.9844950437545776
+0,0,The familiar Henderson Hasselbalch equation derives from these facts ,25,0.75,0.49099284410476685
+0,0,Carbonic acid concentration is proportional to the partial pressure of carbon dioxide pCO in the blood ,25,0.75,0.5019636750221252
+0,0,Multiplying the pCO by a constant ,25,0.75,9.705243428470567e-05
+0,0,estimates the carbonic acid concentration  giving the useful form of the above equation ,25,0.75,0.3609716296195984
+0,0,Changes in hydrogen ion concentration pH result from changes in either bicarbonate or carbon dioxide ,25,0.75,0.13278761506080627
+0,0,Measurement of total CO content can help us explain acid base disorders when the pH and pCO are known ,25,0.75,0.42825114727020264
+1,0,Furthermore  since we often measure total CO content as part of automated chemistry determinations  this measurement can provide the first clue to acid base disturbances ,25,0.75,0.9978864192962646
+0,0,We produce approximately  mEqkg daily of hydrogen ions derived from metabolism of proteins primarily ,25,0.75,0.03218710422515869
+0,0,The kidney normally excretes this daily acid load ,25,0.75,0.010700225830078125
+0,0,Failure of excretion forces the reaction of H+ and HCO  resulting in a decrease of bicarbonate concentration ,25,0.75,0.0010358691215515137
+1,0,Bicarbonate reabsorption occurs primarily in the proximal tubule ,25,0.75,0.9997456073760986
+0,0,Carbonic anhydrase controls this absorption ,25,0.75,4.929018177790567e-05
+1,0,The patient's volume status has a major influence on absorption  since sodium is reabsorbed along with this bicarbonate ,25,0.75,0.8374027013778687
+0,0,Thus  volume contraction stimulates both sodium and bicarbonate reabsorption ,25,0.75,0.42867016792297363
+0,0,This results in an increased total CO content ,25,0.75,6.756143557140604e-05
+0,0,Likewise  volume expansion can lead to a mild decrease in total CO content ,25,0.75,0.00018578767776489258
+1,0,Hydrogen ion concentration pH is another major determinant of bicarbonate reabsorption ,25,0.75,0.8383623957633972
+1,0,Thus  the kidney will respond to changes in ventilation pCO with compensatory changes in bicarbonate reabsorption ,25,0.75,0.9556677937507629
+0,0,For example  chronic hypoventilation  pCO causes a decreased pH ,25,0.75,0.04012063145637512
+0,0,This decreased pH stimulates bicarbonate reabsorption  thus the patient will have an increased total CO content ,25,0.75,0.007225483655929565
+1,1,Interpersonal relationships refer to reciprocal social and emotional interactions between the patient and other persons in the environment ,25,0.75,0.9916818141937256
+1,0,Almost every mental disorder is accompanied by problems in this respect ,25,0.75,0.9941884875297546
+1,0,Frequently a basic cause of conflict with other people is the presence of some psychiatric disorder ,25,0.75,0.904557466506958
+0,0,Major areas in which these conflicts may occur include the following relations ,25,0.75,0.014735549688339233
+0,0,  Family  Social  Work  Religious  Sexual ,25,0.75,0.2199987769126892
+1,1,The character of flank pain is very helpful in determining the cause ,25,0.75,0.9180818200111389
+0,0,Important characteristics include local or referred pain  acute or chronic or recurrent pain  degree of severity  and duration ,25,0.75,0.38375765085220337
+0,0,Associated symptoms such as fever  nausea and vomiting  and atrial fibrillation often help in making the correct diagnosis ,25,0.75,0.6291998624801636
+1,0,Flank pain that radiates to the ipsilateral testicle is usually caused by proximal ureteral or renal pelvic obstruction due to the common innervation of the testicle and the renal pelvis T ,25,0.75,0.9999657869338989
+0,0,This pain usually originates in the posterior part of the flank and radiates to the testicle of the male or the labia of the female ,25,0.75,0.13976287841796875
+0,0,The pain becomes lower and more anterior in the flank when the obstruction occurs in the middle third of the ureter ,25,0.75,0.020770490169525146
+1,0,The pain is still lower  radiates to the scrotal skin rather than the testicle  and is associated with voiding symptoms such as urinary frequency and urgency when the obstruction occurs at the level of the ureterovesical junction ,25,0.75,0.9752442240715027
+0,0,The degree of severity of the pain is directly related to the acuteness of the obstruction rather than the degree of obstruction ,25,0.75,0.000265270471572876
+0,0,Therefore  a stone that passes into the ureter and suddenly becomes lodged in one position usually causes extremely severe pain ,25,0.75,0.02075687050819397
+0,0,But flank pain can be very mild or absent in the presence of very severe but chronic obstruction ,25,0.75,0.6192482113838196
+1,0,Mild and chronic flank pain associated with severe ureteral obstruction can produce irreversible renal damage ,25,0.75,0.9849547147750854
+0,0,A stone passing through the ureter will often cause severe but intermittent pain ,25,0.75,0.014366954565048218
+0,0,The intermittent pain is related to obstruction produced when the stone becomes lodged in the ureter ,25,0.75,0.7223786115646362
+0,0,Therefore  each episode of pain is likely to be associated with a stone becoming lodged in a new and more distal position in the ureter ,25,0.75,0.0007281899452209473
+0,0,Flank pain is often associated with less specific symptoms including fever  nausea and vomiting  and tachycardia ,25,0.75,0.03731498122215271
+1,0,Fever suggests infection proximal to the ureteral obstruction ,25,0.75,0.7675454616546631
+1,0,Flank pain associated with fever requires a prompt diagnosis of ureteral obstruction and relief of the obstruction because infection proximal to the obstruction causes much more rapid renal damage than occurs with obstruction in the absence of infection ,25,0.75,0.8822988271713257
+0,0,Also  the patient is susceptible to septicemia in the presence of infection proximal to a ureteral obstruction ,25,0.75,0.0159643292427063
+1,0,Gross or microscopic hematuria helps to confirm a urinary cause of the pain ,25,0.75,0.9395189881324768
+0,0,Hematuria is occasionally absent with acute ureteral obstruction  however  and is often absent with chronic obstruction ,25,0.75,0.020888179540634155
+0,0,Although ureteral stone is the most common cause of flank pain  many other causes should be considered see Table ,25,0.75,0.29348522424697876
+0,0,Flank pain resulting from acute ureteral obstruction can also be caused by blood clots or sloughed renal papillae passing through the ureter ,25,0.75,0.27649009227752686
+1,0,Blood clots can be produced by many pathologic lesions of the kidney  tumors being the most common cause ,25,0.75,0.8812580108642578
+0,0,Renal papillary necrosis should be considered in patients with a history of analgesic abuse or diabetes mellitus ,25,0.75,0.33256810903549194
+0,0,Flank pain caused by chronic ureteral obstruction is generally much less severe ,25,0.75,0.201370507478714
+1,0,Occasionally  congenital anomalies such as ureteropelvic junction obstruction produce flank pain associated with a diuresis after oral intake of a large volume of fluid ,25,0.75,0.9019265174865723
+1,0,Bilateral chronic ureteral obstruction or ureteral obstruction of a solitary kidney can be associated with symptoms of renal failure such as apathy  lethargy  anorexia  muscle twitching  headache  hypertension  and poor growth of a child ,25,0.75,0.9875165224075317
+1,0,A dull or mild flank pain should make the clinician consider many possible causes including congenital ureteral obstruction  ureteral tumor or an extrinsic tumor compressing the ureter  acquired stricture of the ureter due to a previous operation or radiation therapy  retroperitoneal fibrosis  and a ureteral stone ,25,0.75,0.9902490377426147
+0,0,Flank pain caused by renal inflammation generally is not as sudden in onset or as severe as pain caused by acute ureteral obstruction ,25,0.75,0.6438979506492615
+1,0,Renal inflammation usually produces localized pain and is associated with other manifestations of infection such as fever  leukocytosis  and bacteriuria ,25,0.75,0.7934056520462036
+1,0,Flank pain can be caused by different types of renal tumors  but pain is not the most common presenting symptom  and when pain is present  it often is associated with other symptoms ,25,0.75,0.9214353561401367
+1,0,Hematuria is the most common symptom seen in tumors presenting in adults  an abdominal mass is the most common presenting symptom of Wilms tumor in childhood ,25,0.75,0.9912523031234741
+1,0,Uncommon causes of flank pain include renal trauma  renal infarction  and vesicoureteral reflux even in the absence of infection ,25,0.75,0.9811124801635742
+0,0,Renal infarction should be considered in patients with atrial fibrillation or a recent myocardial infarction ,25,0.75,0.6776522397994995
+1,0,Vesicoureteral reflux occasionally causes mild flank pain due to distention of the ureter and renal pelvis when the reflux occurs while voiding ,25,0.75,0.9914689064025879
+1,0,A patient should be suspected of being an analgesic abuser when he or she presents with a history of acute severe flank pain  uric acid stones  previous reactions to contrast media  and a residence a great distance away ,25,0.75,0.9791768789291382
+0,0,The physician should not be fooled by hematuria because narcotic addicts find ways to place blood in their urine specimens ,25,0.75,0.002407163381576538
+0,0,Extraurinary diseases of the abdomen and chest can also cause flank pain ,25,0.75,0.26157885789871216
+0,0,These diseases produce pain less characteristic of the typical renal colic seen with acute ureteral obstruction ,25,0.75,0.01005062460899353
+1,0,Nevertheless  this vague  dull  mild flank pain is similar to the pain seen with chronic ureteral obstruction  making the differential diagnosis unclear ,25,0.75,0.7528048753738403
+1,0,The correct diagnosis is made by thinking of all the diseases that have been discussed  considering the associated symptoms  physical examination  urinalysis  and performing carefully selected laboratory tests and radiographic studies ,25,0.75,0.9992152452468872
+0,1,Albumin makes up more than half of the total protein present in serum ,25,0.75,0.08431640267372131
+1,0,Approximately  to  of the body's total albumin pool is found in the intravascular compartment ,25,0.75,0.8507448434829712
+0,0,The remainder is extravascular and is located in the interstitial spaces  mainly of the muscles and skin ,25,0.75,0.025548100471496582
+0,0,Albumin is also found in small amounts in a variety of body tissue fluids such as sweat  tears  gastric juice  and bile ,25,0.75,0.2938728332519531
+0,0,Albumin does not diffuse freely through intact vascular endothelium ,25,0.75,0.020126432180404663
+1,0,Hence  it is the major protein providing the critical colloid osmotic or oncotic pressure that regulates passage of water and diffusable solutes through the capillaries ,25,0.75,0.991267204284668
+0,0,Albumin accounts for  of the colloid osmotic pressure ,25,0.75,0.0066769421100616455
+0,0,It exerts a greater osmotic force than can be accounted for solely on the basis of the number of molecules dissolved in the plasma  and for this reason it cannot be completely replaced by inert substances such as dextran ,25,0.75,0.03642621636390686
+1,0,The reason is that albumin has a negative charge at normal blood pH and attracts and retains cations  especially Na+ in the vascular compartment ,25,0.75,0.9434322714805603
+0,0,This is called the Gibbs Donnan effect ,25,0.75,8.613888553554716e-07
+0,0,Albumin also binds a small number of Cl ions that increase its negative charge and ability to retain Na+ ions inside the capillaries ,25,0.75,0.3207537829875946
+0,0,This enhanced osmotic force causes the colloid osmotic pressure to be  greater than it would be by protein concentration alone ,25,0.75,0.00021952390670776367
+1,0,Albumin serves in the transport of bilirubin  hormones  metals  vitamins  and drugs ,25,0.75,0.9992637038230896
+0,0,It has an important role in fat metabolism by binding fatty acids and keeping them in a soluble form in the plasma ,25,0.75,0.6128286123275757
+0,0,This is one reason why hyperlipemia occurs in clinical situations of hypoalbuminemia ,25,0.75,0.683458685874939
+0,0,The binding of hormones by albumin regulates the amount of free hormone available at any time ,25,0.75,0.4476718306541443
+0,0,Because of its negative charge  albumin is also able to furnish some of the anions needed to balance the cations of the plasma ,25,0.75,0.002510756254196167
+0,0,Albumin is synthesized in the liver ,25,0.75,0.2974778413772583
+1,0,The rate of synthesis is constant in normal individuals at  to  mgkgday  resulting in the production of  to  g of albumin daily in a  kg man ,25,0.75,0.8262442946434021
+0,0,The liver produces albumin at less than half of its capacity ,25,0.75,0.0007660090923309326
+1,0,The primary factors affecting albumin synthesis include protein and amino acid nutrition  colloidal osmotic pressure  the action of certain hormones  and disease states ,25,0.75,0.9978166818618774
+0,0,Fasting or a protein deficient diet cause a decrease in albumin synthesis as long as the deficiency state is maintained ,25,0.75,0.005373924970626831
+1,0,In the normal individual  the liver increases albumin synthesis in response to the increased availability of amino acids provided by the portal blood following each protein containing meal ,25,0.75,0.9951208829879761
+1,0,A decrease in extravascular colloidal pressure serves as a stimulus for albumin synthesis and is thought to act within the liver ,25,0.75,0.8536117076873779
+0,0,Thyroid hormone  corticosteroids  growth hormone  and insulin all can increase albumin synthesis ,25,0.75,0.03675574064254761
+1,0,The main site of albumin degradation is not known ,25,0.75,0.8862414360046387
+1,0,Albumin appears to be catabolized in locations that are capable of rapid equilibration with the bloodstream ,25,0.75,0.9909275770187378
+0,0,It is degraded into amino acids that are utilized for energy requirements of the cell or secreted into the pool of extracellular amino acids ,25,0.75,0.2451607584953308
+1,0,The globulin fraction includes hundreds of serum proteins including carrier proteins  enzymes  complement  and immunoglobulins ,25,0.75,0.9997939467430115
+0,0,Most of these are synthesized in the liver  although the immunoglobulins are synthesized by plasma cells ,25,0.75,0.09143075346946716
+0,0,Globulins are divided into four groups by electrophoresis ,25,0.75,0.004341781139373779
+0,0,The four fractions are a  a  b and g  depending on their migratory pattern between the anode and the cathode ,25,0.75,0.22183090448379517
+0,0,Increases in the globulin fraction usually result from an increase in immunoglobulins  but there can be an increase in other proteins in pathologic states that have characteristic electrophoretic patterns see Figures ,25,0.75,0.04472735524177551
+1,0,Malnutrition and congenital immune deficiency can cause a decrease in total globulins due to decreased synthesis  and nephrotic syndrome can cause a decrease due to protein loss through the kidney ,25,0.75,0.9987210035324097
+0,0,Immunoglobulins i e   antibodies migrate mainly in the g region  but some migrate in the b and a regions as well ,25,0.75,0.0005173087120056152
+0,0,Each immunoglobulin molecule is composed of two heavy chains that are of the same class and two light chains that are also alike ,25,0.75,0.003082364797592163
+0,0,Each heavy chain has a variable region in which amino acid substitutes make each chain different from the next and a constant region in which there are very few amino acid differences from the constant region of any other immunoglobulin of that heavy chain type ,25,0.75,0.6446049213409424
+0,0,Light chains are of either l or k type and have constant and variable regions ,25,0.75,0.059136390686035156
+1,0,The different kinds of immunoglobulins are named by capital letters that correspond to their heavy chain type  IgG  IgA  IgM  IgE  and IgD ,25,0.75,0.9000637531280518
+0,0,Three fourths of the immunoglobulin level in normal serum is of the IgG type ,25,0.75,0.013193875551223755
+0,0,Many antibodies to bacteria and viruses are IgG ,25,0.75,0.0061609745025634766
+1,0,The normal collection of IgG molecules is made up of minute amounts of different IgG antibodies produced from diverse clones of plasma cells  thus it is polyclonal ,25,0.75,0.9992095232009888
+0,0,If a single clone escapes its normal controls  it can reproduce excessively and synthesize an excess of a monoclonal protein with a single heavy chain class and light chain type ,25,0.75,0.038201093673706055
+1,1,There are four major circumstances in which an eating behavior can be considered a pica ,25,0.75,0.9990051984786987
+1,0,These circumstances are disparate enough to reduce the likelihood that one underlying abnormality accounts for all pica ,25,0.75,0.8480588793754578
+1,0,In a very general sense  the disorder originates from either behavioral or biochemical sources ,25,0.75,0.9688672423362732
+0,0,The somewhat loose use of the term pica  though  makes it difficult to generalize and contributes to the lack of an all embracing hypothesis ,25,0.75,0.015916109085083008
+0,0,A mentally disturbed or retarded person may impulsively ingest any available object  suffering the medical consequences thereof ,25,0.75,0.032470911741256714
+0,0,Persons with an obsessive personality disorder may fixate on an ingestion activity ,25,0.75,0.11226421594619751
+1,0,These persons have behavioral abnormalities in which the ingestion activity pica is more the choice of a disordered mind than a response to a biochemical deficiency ,25,0.75,0.9321680068969727
+0,0,The mouthing activity of children is at least in part a learning behavior and may not represent a pica ,25,0.75,0.2149093747138977
+1,0,Children seem to derive as much tactile information from inserting objects into the mouth as touching with the fingers ,25,0.75,0.9691423177719116
+0,0,This discovery process  unfortunately  can have adverse medical consequences  highlighted by the problem of lead poisoning ,25,0.75,0.037211835384368896
+1,0,Ingestion of paint chips or plaster may originate as an innocent mouthing activity but develop into a true pica  perhaps due to the semisweet taste of lead based paints ,25,0.75,0.9588252305984497
+0,0,Some investigators believe that a pica in childhood has the same significance as in adults ,25,0.75,0.005309343338012695
+1,0,They point to the fact that many milk fed children become iron deficient and contend that compulsive drinking of milk or eating of paint chips  dirt  and so on  reflects the same poorly understood craving as in adults ,25,0.75,0.9825010299682617
+0,0,A third important circumstance in which a pica is found is the compulsive ingestion of dirt or clay  as practiced in the rural South or by migrants from that region ,25,0.75,0.4228844940662384
+1,0,This geophagia seems to have originated as an ethnic cultural habit passed down from mother to child ,25,0.75,0.9975674152374268
+0,0,Children of both sexes learn the behavior as toddlers and generally outgrow the activity a few years later ,25,0.75,1.9731243810383603e-05
+0,0,Daughters  however  are re introduced to the behavior years later  often during a first pregnancy ,25,0.75,0.036174654960632324
+1,0,Pregnancy is a time when many women are iron deficient  but the behavior seems to be widespread enough for a deficiency not to be the complete explanation ,25,0.75,0.9571709036827087
+0,0,Geophagia manages to persist even with migration ,25,0.75,0.005712717771530151
+1,0,Older black women in the Midwest recall being sent shoeboxes filled with clay from relatives in the deep South ,25,0.75,0.7888310551643372
+1,0,In fact  clay from certain sites was highly regarded for its taste  and clay from substitute sites was quickly spotted ,25,0.75,0.8538930416107178
+0,0,In more recent years  geophagia may have been replaced by amylophagia starch eating  which is considered more sanitary ,25,0.75,1.7343219951726496e-05
+1,0,Although many women who have this pica may be nutritionally deficient  the bulk of the evidence suggests that an ethnic cultural practice is the explanation Vermeer and Frate ,25,0.75,0.9996241927146912
+1,0,The majority of pica seen by physicians in Western countries can be traced to iron deficiency  with or without anemia ,25,0.75,0.9984956979751587
+0,0,In fact  a pica may be detected in as many as  of all persons with iron deficiency ,25,0.75,0.0725659728050232
+1,0,Crosby  is the most prominent proponent of the idea that a pica is a manifestation of a lack of iron stores and not of the anemia itself ,25,0.75,0.9293642044067383
+0,0,He points out that pica is not common in other anemias ,25,0.75,0.0006977319717407227
+0,0,The pica also disappears  in most cases  once iron replacement begins and long before the anemia is corrected ,25,0.75,0.11504143476486206
+0,0,He wryly notes that in most cases the choice of material ingested rarely is a good source of the missing mineral ,25,0.75,0.6272290945053101
+0,0,For a pica to occur  it is not important how the iron deficiency develops ,25,0.75,0.0016994774341583252
+1,0,Hence  a pica may be seen whether the person has a chronic gastrointestinal bleed  menorrhagia  inadequate diet  or any of the other causes of iron loss ,25,0.75,0.9966750741004944
+1,0,There is no good explanation  however  for why an eating behavior is a manifestation of iron deficiency ,25,0.75,0.7832278609275818
+1,0,It is true that the mineral is found in some important enzyme systems involving taste and digestion ,25,0.75,0.9900178909301758
+0,0,In some way  perhaps deficiency of iron in those enzymes could induce an iron seeking behavior ,25,0.75,1.4464652849710546e-05
+1,0,An entirely different explanation relates to the observation that certain lesions of the brain may result in hyperphagia ,25,0.75,0.9846582412719727
+0,0,It has been noted that those sites are high in iron content ,25,0.75,3.573183494154364e-05
+0,0,The extrapolation  then  is that lack of iron in those sites induces hyperphagia again  iron seeking  of which the pica is a manifestation ,25,0.75,0.40411972999572754
+0,0,This hypothesis has never been put to experimental trial ,25,0.75,0.0023422837257385254
+0,0,Pica is not necessarily a manifestation of iron deficiency only ,25,0.75,0.6079151034355164
+0,0,Zinc deficiency has also been noted as a cause of pica  and it is not unreasonable to suspect that other minerals may be implicated ,25,0.75,0.014932304620742798
+1,1,These in vitro teststhe activated partial thromboplastin time aPTT  prothrombin time PT  and thrombin time TTmeasure the time elapsed from activation of the coagulation cascade Figure ,25,0.75,0.9259200096130371
+0,0,at different points to the generation of fibrin ,25,0.75,0.09928330779075623
+0,0,The aPTT measures the time necessary to generate fibrin from initiation of the intrinsic pathway Figure ,25,0.75,0.26052767038345337
+1,0,Activation of factor XII is accomplished with an external agent e g   kaolin capable of activating factor XII without activating factor VII ,25,0.75,0.8701721429824829
+0,0,Since platelet factors are necessary for the cascade to function normally  the test is performed in the presence of a phospholipid emulsion that takes the place of these factors ,25,0.75,0.06061527132987976
+1,0,The classic partial thromboplastin time depends on contact with a glass tube for activation ,25,0.75,0.9940893650054932
+0,0,Since this is considered a difficult variable to control  the activated test uses an external source of activation ,25,0.75,0.004000663757324219
+0,0,Citrated plasma  an activating agent  and phospholipid are added together and incubated at °C ,25,0.75,0.002176225185394287
+1,0,Calcium is added  and the time necessary for the clumping of kaolin is measured ,25,0.75,0.960157036781311
+0,0,The normal time is usually reported as less than  to  seconds depending on the technique used ,25,0.75,0.00609859824180603
+0,0,In fact  there is a normal range of about  seconds e g    to   and decreased values short may also be abnormal ,25,0.75,0.0001430213451385498
+1,0,This test is abnormal in the presence of reduced quantities of factors XII  IX  XI  VIII  X  V  prothrombin  and fibrinogen all integral parts of the intrinsic and common pathway ,25,0.75,0.999975323677063
+0,0,It is usually prolonged if a patient has less than approximately  normal activity ,25,0.75,0.0018107593059539795
+0,0,It can also be abnormal in the presence of a circulating inhibitor to any of the intrinsic pathway factors ,25,0.75,0.0028412938117980957
+1,0,The differentiation of inhibitors from factor depletion is important and can best be accomplished by a mixing study in which patient and normal plasma are combined in a   ratio and the test is repeated on the mixed sample ,25,0.75,0.998132586479187
+0,0,If the abnormal value is corrected completely  the problem is factor deficiency ,25,0.75,0.013106435537338257
+0,0,If the result does not change or the abnormality is corrected only partially  an inhibitor is present ,25,0.75,0.021336406469345093
+0,0,This difference stems from the above mentioned fact that the aPTT will be normal in the presence of  normal activity ,25,0.75,0.0506134033203125
+1,0,The aPTT is a good screening test for inherited or acquired factor deficiencies ,25,0.75,0.9930746555328369
+1,0,Inherited disorders including classic hemophilia A factor VIII deficiency and hemophilia B factor IX deficiency  or Christmas disease are well known diseases in which the aPTT is prolonged ,25,0.75,0.9952206611633301
+0,0,Other intrinsic and common pathway factors may also be congenitally absent ,25,0.75,3.248995926696807e-05
+1,0,These conditions are rare but have been described for all factors ,25,0.75,0.9564543962478638
+0,0,A number of kindreds with abnormalities of factor XII activation have been described ,25,0.75,0.04911622405052185
+0,0,They are usually associated with a prolonged aPTT without clinical signs of bleeding ,25,0.75,0.0004366636276245117
+0,0,Acquired factor deficiency is common ,25,0.75,0.32964372634887695
+0,0,Vitamin K deficiency  liver dysfunction  and iatrogenic anticoagulation with warfarin are most common ,25,0.75,0.008377879858016968
+0,0,Factor depletion may also occur in the setting of disseminated intravascular coagulation DIC  prolonged bleeding  and massive transfusion ,25,0.75,0.05877190828323364
+1,0,A prolonged aPTT that cannot be completely normalized with the addition of normal plasma can be explained only by the presence of a circulating inhibitor of coagulation ,25,0.75,0.9121697545051575
+0,0,The presence of these inhibitors is almost always acquired  and their exact nature is not always apparent ,25,0.75,0.365965336561203
+0,0,From a clinical point of view  the most common inhibitors should be considered antithrombins ,25,0.75,0.0007654726505279541
+0,0,These compounds inhibit the activity of thrombin on the conversion of fibrinogen to fibrin Figure ,25,0.75,0.0007071495056152344
+1,0,The two most common inhibitors are heparin  which acts through the naturally occurring protein antithrombin III AT III  and fibrin degradation products FDP  formed by the action of plasmin on the fibrin clot and usually present in elevated concentrations in DIC and primary fibrinolysis ,25,0.75,0.9927887320518494
+0,0,Other inhibitors appear to be antibodies ,25,0.75,1.0974938646768351e-07
+1,0,The easiest to understand is the antibody against factor VIII in patients with hemophilia A treated with factor VIII concentrate ,25,0.75,0.9964032173156738
+1,0,Inhibitors against other factors have been described with a variety of diseases that follow a variable course ,25,0.75,0.9701429605484009
+0,0,When characterized  they have been immunoglobulins ,25,0.75,0.00010545597615418956
+0,0,A particular problem may be seen in patients suffering from systemic lupus erythematosus ,25,0.75,0.008433312177658081
+0,0,These patients may present with a prolonged aPTT without evidence of bleeding ,25,0.75,0.00017261505126953125
+0,0,Some present with thrombosis ,25,0.75,5.352348307496868e-05
+1,0,The abnormality cannot be corrected with normal plasma and has been referred to as the lupus anticoagulant ,25,0.75,0.9973937273025513
+0,0,This phenomenon does not represent an in vivo problem with the coagulation cascade ,25,0.75,3.821843711193651e-05
+0,0,Rather  it is a laboratory abnormality caused by the presence of a serum constituent that interferes with the in vitro partial thromboplastin test ,25,0.75,0.5060825347900391
+0,0,Occasionally the reported value of the aPTT will be lower than normal ,25,0.75,1.8180635379394516e-05
+0,0,This shortened time may reflect the presence of increased levels of activated factors in context of a hypercoagulable state ,25,0.75,0.0014168024063110352
+0,0,It is seen in some patients in the early stages of DIC but should not be considered diagnostic for that entity ,25,0.75,0.24738112092018127
+1,0,The PT measures the time necessary to generate fibrin after activation of factor VII ,25,0.75,0.9431260228157043
+1,0,It measures the integrity of the extrinsic and common pathways factors VII  V  X  prothrombin  and fibrinogen ,25,0.75,0.9747332334518433
+1,0,Citrated plasma and an activating agent usually thromboplastin extracted from animal brain are incubated at °C ,25,0.75,0.9831534624099731
+0,0,The plasma is recalcified and the time is measured until fibrin filaments are observed ,25,0.75,0.09121426939964294
+0,0,Each laboratory has its own normal value  usually between  and  seconds ,25,0.75,0.0301075279712677
+0,0,As with the interpretation of a prolonged aPTT  a prolonged PT may reflect either factor deficiency or a circulating inhibitor of coagulation ,25,0.75,0.01290518045425415
+0,0,The distinction is made by repeating the test after a   mix with normal plasma ,25,0.75,0.6445298790931702
+0,0,The test is more sensitive than the aPTT for deficient levels of factors  and a relatively small drop in factor VII levels may prolong the PT ,25,0.75,8.705749496584758e-05
+1,0,Inherited deficiency of factor VII is a rare bleeding disorder characterized by a prolonged PT and a normal aPTT ,25,0.75,0.9999955892562866
+0,0,The PT completely corrects when mixed with normal plasma ,25,0.75,0.0007900893688201904
+1,0,Acquired deficiencies are usually related to liver disease  warfarin therapy  or depletion secondary to consumptive coagulopathy  severe bleeding  or massive transfusion ,25,0.75,0.9990825653076172
+0,0,Circulating inhibitors are most often directed at factor X or thrombin ,25,0.75,0.3799898028373718
+0,0,Most common are heparin or products of fibrinolysis ,25,0.75,0.1455363929271698
+0,0,In their presence the prolonged PT cannot be completely corrected to normal in a   mixing study ,25,0.75,0.022372007369995117
+1,0,This test measures the time necessary to drive the reaction of fibrinogen to fibrin in the presence of thrombin ,25,0.75,0.8489559888839722
+0,0,It measures the integrity of this reaction and isolates an abnormality to either a decrease in normal fibrinogen or an inhibitor to its activation ,25,0.75,0.6674971580505371
+0,0,Citrated plasma is incubated at °C and thrombin is added to the solution ,25,0.75,0.05231645703315735
+1,0,Time is measured from the addition of thrombin to the generation of fibrin filaments ,25,0.75,0.9944618940353394
+0,0,Calcium is unnecessary ,25,0.75,0.0002624094486236572
+1,0,Abnormalities can be explained in one of three ways  deficient fibrinogen <  mgdl  abnormal fibrinogen  or an inhibitor to the reaction ,25,0.75,0.9557824730873108
+0,0,As with other tests of the coagulation cascade  if a   mixing study normalizes the prolonged time  one is dealing with factor deficiency ,25,0.75,0.3822043240070343
+0,0,As it pertains to fibrinogen  however  one must distinguish a decrease in normal fibrinogen from the production of an abnormal fibrinogen dysfibrinogenemia ,25,0.75,0.5459948778152466
+1,0,Acquired deficiency of fibrinogen is usually due to a consumptive coagulopathy or  less often  severe liver disease ,25,0.75,0.8907256722450256
+1,0,Hereditary deficiencies exist  but with variable clinical presentations ,25,0.75,0.8025863170623779
+1,0,Afibrinogenemia is an often fatal childhood condition ,25,0.75,0.9974707365036011
+0,0,Abnormal fibrinogen dysfibrinogenemia can be acquired or inherited ,25,0.75,0.1805342435836792
+0,0,The acquired form is usually found in association with severe liver disease  but has been reported in other diseases ,25,0.75,6.816935638198629e-05
+1,0,The congenital form is rare  usually autosomal dominant ,25,0.75,0.9480013251304626
+1,0,A discordance between immunologic and physiologic measurements of fibrinogen is the key to diagnosis ,25,0.75,0.9958311319351196
+0,0,The most common acquired inhibitors of this reaction are heparin and fibrin degradation products FDP ,25,0.75,0.002706289291381836
+0,0,The effect of heparin can be eliminated by catalyzing the reaction with reptilase  which  unlike thrombin  is insensitive to heparin ,25,0.75,0.00012005768076051027
+1,0,FDP are commonly seen in consumptive coagulopathies and primary fibrinolytic states ,25,0.75,0.986107349395752
+1,1,The syndromes of primary neurologic disease with autonomic insufficiency require very careful evaluation and differentiation ,25,0.75,0.861544668674469
+1,0,In progressive autonomic failure Bradbury Eggleston syndrome or idiopathic orthostatic hypotension the symptoms of autonomic failure are an early manifestation ,25,0.75,0.9936739802360535
+1,0,The history at the time the patient first seeks care is of postural syncope ,25,0.75,0.8494449853897095
+0,0,It may also include genitourinary or bowel symptoms  but these usually are revealed in the review of systems rather than offered spontaneously by the patient ,25,0.75,0.0007212162017822266
+0,0,This syndrome  although progressive  develops slowly ,25,0.75,0.00048473477363586426
+0,0,The patient can live for many years in relative comfort once effective blood pressure control is achieved ,25,0.75,0.03850308060646057
+0,0,Conversely  the Shy Drager syndrome is a more rapidly progressive illness and is much more problematic in its management ,25,0.75,0.26473841071128845
+0,0,The dysautonomic symptoms usually follow the appearance of signs of other aspects of neurologic degeneration ,25,0.75,0.3784691393375397
+0,0,The Parkinson like symptoms common in this syndrome are particularly difficult to manage and may actually make management of the postural dizziness more difficult ,25,0.75,0.17977949976921082
+0,0,The drug l dopa  for example  may be useful for the control of rigidity  but is one that can cause orthostatic hypotension ,25,0.75,0.04839545488357544
+0,0,In addition  there appears to be more than one form of neurologic degenerative illness present in the cluster of patients who have been diagnosed as having Shy Drager syndrome ,25,0.75,0.7441238164901733
+0,0,While they all ultimately develop dysautonomia  some have this only in conjunction with Parkinson like abnormalities consistent with olivo ponto cerebellar degeneration ,25,0.75,0.00015863776206970215
+0,0,Others may have different distributions of neurologic abnormalities including both sensory system abnormalities and voluntary motor dysfunction ,25,0.75,0.7463194131851196
+1,1,The kidneys and lungs maintain daily acid base balance ,25,0.8,0.9890879392623901
+1,0,Understanding this normal physiology allows us to appreciate abnormalities ,25,0.8,0.9968290328979492
+0,0,This discussion refers to bicarbonate rather than total CO content  as we measure total CO content as a surrogate for bicarbonate ,25,0.8,1.0348582009100937e-06
+1,0,Bicarbonate and carbonic acid constitute the major buffer pair in body fluids ,25,0.8,0.9903116226196289
+0,0,Carbonic acid dissociates into hydrogen ion and bicarbonate with a dissociation constant of ,25,0.8,0.061580657958984375
+0,0,× ,25,0.8,3.489150685709319e-06
+0,0,Carbonic acid also maintains an equilibrium with HO and CO ,25,0.8,0.00025773048400878906
+1,0,We usually describe dissociation constants and hydrogen ion concentrations as negative logarithms ,25,0.8,0.9173730611801147
+0,0,Thus  the negative logarithm of the dissociation constant equals ,25,0.8,0.003701716661453247
+0,0,This value is called the pKa ,25,0.8,2.70647433353588e-05
+1,0,Normal hydrogen ion concentration equals  nanoequivalentsliter  corresponding to a pH of ,25,0.8,0.9844950437545776
+0,0,The familiar Henderson Hasselbalch equation derives from these facts ,25,0.8,0.49099284410476685
+0,0,Carbonic acid concentration is proportional to the partial pressure of carbon dioxide pCO in the blood ,25,0.8,0.5019636750221252
+0,0,Multiplying the pCO by a constant ,25,0.8,9.705243428470567e-05
+0,0,estimates the carbonic acid concentration  giving the useful form of the above equation ,25,0.8,0.3609716296195984
+0,0,Changes in hydrogen ion concentration pH result from changes in either bicarbonate or carbon dioxide ,25,0.8,0.13278761506080627
+0,0,Measurement of total CO content can help us explain acid base disorders when the pH and pCO are known ,25,0.8,0.42825114727020264
+1,0,Furthermore  since we often measure total CO content as part of automated chemistry determinations  this measurement can provide the first clue to acid base disturbances ,25,0.8,0.9978864192962646
+0,0,We produce approximately  mEqkg daily of hydrogen ions derived from metabolism of proteins primarily ,25,0.8,0.03218710422515869
+0,0,The kidney normally excretes this daily acid load ,25,0.8,0.010700225830078125
+0,0,Failure of excretion forces the reaction of H+ and HCO  resulting in a decrease of bicarbonate concentration ,25,0.8,0.0010358691215515137
+1,0,Bicarbonate reabsorption occurs primarily in the proximal tubule ,25,0.8,0.9997456073760986
+0,0,Carbonic anhydrase controls this absorption ,25,0.8,4.929018177790567e-05
+1,0,The patient's volume status has a major influence on absorption  since sodium is reabsorbed along with this bicarbonate ,25,0.8,0.8374027013778687
+0,0,Thus  volume contraction stimulates both sodium and bicarbonate reabsorption ,25,0.8,0.42867016792297363
+0,0,This results in an increased total CO content ,25,0.8,6.756143557140604e-05
+0,0,Likewise  volume expansion can lead to a mild decrease in total CO content ,25,0.8,0.00018578767776489258
+1,0,Hydrogen ion concentration pH is another major determinant of bicarbonate reabsorption ,25,0.8,0.8383623957633972
+1,0,Thus  the kidney will respond to changes in ventilation pCO with compensatory changes in bicarbonate reabsorption ,25,0.8,0.9556677937507629
+0,0,For example  chronic hypoventilation  pCO causes a decreased pH ,25,0.8,0.04012063145637512
+0,0,This decreased pH stimulates bicarbonate reabsorption  thus the patient will have an increased total CO content ,25,0.8,0.007225483655929565
+1,1,Interpersonal relationships refer to reciprocal social and emotional interactions between the patient and other persons in the environment ,25,0.8,0.9916818141937256
+1,0,Almost every mental disorder is accompanied by problems in this respect ,25,0.8,0.9941884875297546
+1,0,Frequently a basic cause of conflict with other people is the presence of some psychiatric disorder ,25,0.8,0.904557466506958
+0,0,Major areas in which these conflicts may occur include the following relations ,25,0.8,0.014735549688339233
+0,0,  Family  Social  Work  Religious  Sexual ,25,0.8,0.2199987769126892
+1,1,The character of flank pain is very helpful in determining the cause ,25,0.8,0.9180818200111389
+0,0,Important characteristics include local or referred pain  acute or chronic or recurrent pain  degree of severity  and duration ,25,0.8,0.38375765085220337
+0,0,Associated symptoms such as fever  nausea and vomiting  and atrial fibrillation often help in making the correct diagnosis ,25,0.8,0.6291998624801636
+1,0,Flank pain that radiates to the ipsilateral testicle is usually caused by proximal ureteral or renal pelvic obstruction due to the common innervation of the testicle and the renal pelvis T ,25,0.8,0.9999657869338989
+0,0,This pain usually originates in the posterior part of the flank and radiates to the testicle of the male or the labia of the female ,25,0.8,0.13976287841796875
+0,0,The pain becomes lower and more anterior in the flank when the obstruction occurs in the middle third of the ureter ,25,0.8,0.020770490169525146
+1,0,The pain is still lower  radiates to the scrotal skin rather than the testicle  and is associated with voiding symptoms such as urinary frequency and urgency when the obstruction occurs at the level of the ureterovesical junction ,25,0.8,0.9752442240715027
+0,0,The degree of severity of the pain is directly related to the acuteness of the obstruction rather than the degree of obstruction ,25,0.8,0.000265270471572876
+0,0,Therefore  a stone that passes into the ureter and suddenly becomes lodged in one position usually causes extremely severe pain ,25,0.8,0.02075687050819397
+0,0,But flank pain can be very mild or absent in the presence of very severe but chronic obstruction ,25,0.8,0.6192482113838196
+1,0,Mild and chronic flank pain associated with severe ureteral obstruction can produce irreversible renal damage ,25,0.8,0.9849547147750854
+0,0,A stone passing through the ureter will often cause severe but intermittent pain ,25,0.8,0.014366954565048218
+0,0,The intermittent pain is related to obstruction produced when the stone becomes lodged in the ureter ,25,0.8,0.7223786115646362
+0,0,Therefore  each episode of pain is likely to be associated with a stone becoming lodged in a new and more distal position in the ureter ,25,0.8,0.0007281899452209473
+0,0,Flank pain is often associated with less specific symptoms including fever  nausea and vomiting  and tachycardia ,25,0.8,0.03731498122215271
+0,0,Fever suggests infection proximal to the ureteral obstruction ,25,0.8,0.7675454616546631
+1,0,Flank pain associated with fever requires a prompt diagnosis of ureteral obstruction and relief of the obstruction because infection proximal to the obstruction causes much more rapid renal damage than occurs with obstruction in the absence of infection ,25,0.8,0.8822988271713257
+0,0,Also  the patient is susceptible to septicemia in the presence of infection proximal to a ureteral obstruction ,25,0.8,0.0159643292427063
+1,0,Gross or microscopic hematuria helps to confirm a urinary cause of the pain ,25,0.8,0.9395189881324768
+0,0,Hematuria is occasionally absent with acute ureteral obstruction  however  and is often absent with chronic obstruction ,25,0.8,0.020888179540634155
+0,0,Although ureteral stone is the most common cause of flank pain  many other causes should be considered see Table ,25,0.8,0.29348522424697876
+0,0,Flank pain resulting from acute ureteral obstruction can also be caused by blood clots or sloughed renal papillae passing through the ureter ,25,0.8,0.27649009227752686
+1,0,Blood clots can be produced by many pathologic lesions of the kidney  tumors being the most common cause ,25,0.8,0.8812580108642578
+0,0,Renal papillary necrosis should be considered in patients with a history of analgesic abuse or diabetes mellitus ,25,0.8,0.33256810903549194
+0,0,Flank pain caused by chronic ureteral obstruction is generally much less severe ,25,0.8,0.201370507478714
+1,0,Occasionally  congenital anomalies such as ureteropelvic junction obstruction produce flank pain associated with a diuresis after oral intake of a large volume of fluid ,25,0.8,0.9019265174865723
+1,0,Bilateral chronic ureteral obstruction or ureteral obstruction of a solitary kidney can be associated with symptoms of renal failure such as apathy  lethargy  anorexia  muscle twitching  headache  hypertension  and poor growth of a child ,25,0.8,0.9875165224075317
+1,0,A dull or mild flank pain should make the clinician consider many possible causes including congenital ureteral obstruction  ureteral tumor or an extrinsic tumor compressing the ureter  acquired stricture of the ureter due to a previous operation or radiation therapy  retroperitoneal fibrosis  and a ureteral stone ,25,0.8,0.9902490377426147
+0,0,Flank pain caused by renal inflammation generally is not as sudden in onset or as severe as pain caused by acute ureteral obstruction ,25,0.8,0.6438979506492615
+0,0,Renal inflammation usually produces localized pain and is associated with other manifestations of infection such as fever  leukocytosis  and bacteriuria ,25,0.8,0.7934056520462036
+1,0,Flank pain can be caused by different types of renal tumors  but pain is not the most common presenting symptom  and when pain is present  it often is associated with other symptoms ,25,0.8,0.9214353561401367
+1,0,Hematuria is the most common symptom seen in tumors presenting in adults  an abdominal mass is the most common presenting symptom of Wilms tumor in childhood ,25,0.8,0.9912523031234741
+1,0,Uncommon causes of flank pain include renal trauma  renal infarction  and vesicoureteral reflux even in the absence of infection ,25,0.8,0.9811124801635742
+0,0,Renal infarction should be considered in patients with atrial fibrillation or a recent myocardial infarction ,25,0.8,0.6776522397994995
+1,0,Vesicoureteral reflux occasionally causes mild flank pain due to distention of the ureter and renal pelvis when the reflux occurs while voiding ,25,0.8,0.9914689064025879
+1,0,A patient should be suspected of being an analgesic abuser when he or she presents with a history of acute severe flank pain  uric acid stones  previous reactions to contrast media  and a residence a great distance away ,25,0.8,0.9791768789291382
+0,0,The physician should not be fooled by hematuria because narcotic addicts find ways to place blood in their urine specimens ,25,0.8,0.002407163381576538
+0,0,Extraurinary diseases of the abdomen and chest can also cause flank pain ,25,0.8,0.26157885789871216
+0,0,These diseases produce pain less characteristic of the typical renal colic seen with acute ureteral obstruction ,25,0.8,0.01005062460899353
+0,0,Nevertheless  this vague  dull  mild flank pain is similar to the pain seen with chronic ureteral obstruction  making the differential diagnosis unclear ,25,0.8,0.7528048753738403
+1,0,The correct diagnosis is made by thinking of all the diseases that have been discussed  considering the associated symptoms  physical examination  urinalysis  and performing carefully selected laboratory tests and radiographic studies ,25,0.8,0.9992152452468872
+0,1,Albumin makes up more than half of the total protein present in serum ,25,0.8,0.08431640267372131
+1,0,Approximately  to  of the body's total albumin pool is found in the intravascular compartment ,25,0.8,0.8507448434829712
+0,0,The remainder is extravascular and is located in the interstitial spaces  mainly of the muscles and skin ,25,0.8,0.025548100471496582
+0,0,Albumin is also found in small amounts in a variety of body tissue fluids such as sweat  tears  gastric juice  and bile ,25,0.8,0.2938728332519531
+0,0,Albumin does not diffuse freely through intact vascular endothelium ,25,0.8,0.020126432180404663
+1,0,Hence  it is the major protein providing the critical colloid osmotic or oncotic pressure that regulates passage of water and diffusable solutes through the capillaries ,25,0.8,0.991267204284668
+0,0,Albumin accounts for  of the colloid osmotic pressure ,25,0.8,0.0066769421100616455
+0,0,It exerts a greater osmotic force than can be accounted for solely on the basis of the number of molecules dissolved in the plasma  and for this reason it cannot be completely replaced by inert substances such as dextran ,25,0.8,0.03642621636390686
+1,0,The reason is that albumin has a negative charge at normal blood pH and attracts and retains cations  especially Na+ in the vascular compartment ,25,0.8,0.9434322714805603
+0,0,This is called the Gibbs Donnan effect ,25,0.8,8.613888553554716e-07
+0,0,Albumin also binds a small number of Cl ions that increase its negative charge and ability to retain Na+ ions inside the capillaries ,25,0.8,0.3207537829875946
+0,0,This enhanced osmotic force causes the colloid osmotic pressure to be  greater than it would be by protein concentration alone ,25,0.8,0.00021952390670776367
+1,0,Albumin serves in the transport of bilirubin  hormones  metals  vitamins  and drugs ,25,0.8,0.9992637038230896
+0,0,It has an important role in fat metabolism by binding fatty acids and keeping them in a soluble form in the plasma ,25,0.8,0.6128286123275757
+0,0,This is one reason why hyperlipemia occurs in clinical situations of hypoalbuminemia ,25,0.8,0.683458685874939
+0,0,The binding of hormones by albumin regulates the amount of free hormone available at any time ,25,0.8,0.4476718306541443
+0,0,Because of its negative charge  albumin is also able to furnish some of the anions needed to balance the cations of the plasma ,25,0.8,0.002510756254196167
+0,0,Albumin is synthesized in the liver ,25,0.8,0.2974778413772583
+1,0,The rate of synthesis is constant in normal individuals at  to  mgkgday  resulting in the production of  to  g of albumin daily in a  kg man ,25,0.8,0.8262442946434021
+0,0,The liver produces albumin at less than half of its capacity ,25,0.8,0.0007660090923309326
+1,0,The primary factors affecting albumin synthesis include protein and amino acid nutrition  colloidal osmotic pressure  the action of certain hormones  and disease states ,25,0.8,0.9978166818618774
+0,0,Fasting or a protein deficient diet cause a decrease in albumin synthesis as long as the deficiency state is maintained ,25,0.8,0.005373924970626831
+1,0,In the normal individual  the liver increases albumin synthesis in response to the increased availability of amino acids provided by the portal blood following each protein containing meal ,25,0.8,0.9951208829879761
+1,0,A decrease in extravascular colloidal pressure serves as a stimulus for albumin synthesis and is thought to act within the liver ,25,0.8,0.8536117076873779
+0,0,Thyroid hormone  corticosteroids  growth hormone  and insulin all can increase albumin synthesis ,25,0.8,0.03675574064254761
+1,0,The main site of albumin degradation is not known ,25,0.8,0.8862414360046387
+1,0,Albumin appears to be catabolized in locations that are capable of rapid equilibration with the bloodstream ,25,0.8,0.9909275770187378
+0,0,It is degraded into amino acids that are utilized for energy requirements of the cell or secreted into the pool of extracellular amino acids ,25,0.8,0.2451607584953308
+1,0,The globulin fraction includes hundreds of serum proteins including carrier proteins  enzymes  complement  and immunoglobulins ,25,0.8,0.9997939467430115
+0,0,Most of these are synthesized in the liver  although the immunoglobulins are synthesized by plasma cells ,25,0.8,0.09143075346946716
+0,0,Globulins are divided into four groups by electrophoresis ,25,0.8,0.004341781139373779
+0,0,The four fractions are a  a  b and g  depending on their migratory pattern between the anode and the cathode ,25,0.8,0.22183090448379517
+0,0,Increases in the globulin fraction usually result from an increase in immunoglobulins  but there can be an increase in other proteins in pathologic states that have characteristic electrophoretic patterns see Figures ,25,0.8,0.04472735524177551
+1,0,Malnutrition and congenital immune deficiency can cause a decrease in total globulins due to decreased synthesis  and nephrotic syndrome can cause a decrease due to protein loss through the kidney ,25,0.8,0.9987210035324097
+0,0,Immunoglobulins i e   antibodies migrate mainly in the g region  but some migrate in the b and a regions as well ,25,0.8,0.0005173087120056152
+0,0,Each immunoglobulin molecule is composed of two heavy chains that are of the same class and two light chains that are also alike ,25,0.8,0.003082364797592163
+0,0,Each heavy chain has a variable region in which amino acid substitutes make each chain different from the next and a constant region in which there are very few amino acid differences from the constant region of any other immunoglobulin of that heavy chain type ,25,0.8,0.6446049213409424
+0,0,Light chains are of either l or k type and have constant and variable regions ,25,0.8,0.059136390686035156
+1,0,The different kinds of immunoglobulins are named by capital letters that correspond to their heavy chain type  IgG  IgA  IgM  IgE  and IgD ,25,0.8,0.9000637531280518
+0,0,Three fourths of the immunoglobulin level in normal serum is of the IgG type ,25,0.8,0.013193875551223755
+0,0,Many antibodies to bacteria and viruses are IgG ,25,0.8,0.0061609745025634766
+1,0,The normal collection of IgG molecules is made up of minute amounts of different IgG antibodies produced from diverse clones of plasma cells  thus it is polyclonal ,25,0.8,0.9992095232009888
+0,0,If a single clone escapes its normal controls  it can reproduce excessively and synthesize an excess of a monoclonal protein with a single heavy chain class and light chain type ,25,0.8,0.038201093673706055
+1,1,There are four major circumstances in which an eating behavior can be considered a pica ,25,0.8,0.9990051984786987
+1,0,These circumstances are disparate enough to reduce the likelihood that one underlying abnormality accounts for all pica ,25,0.8,0.8480588793754578
+1,0,In a very general sense  the disorder originates from either behavioral or biochemical sources ,25,0.8,0.9688672423362732
+0,0,The somewhat loose use of the term pica  though  makes it difficult to generalize and contributes to the lack of an all embracing hypothesis ,25,0.8,0.015916109085083008
+0,0,A mentally disturbed or retarded person may impulsively ingest any available object  suffering the medical consequences thereof ,25,0.8,0.032470911741256714
+0,0,Persons with an obsessive personality disorder may fixate on an ingestion activity ,25,0.8,0.11226421594619751
+1,0,These persons have behavioral abnormalities in which the ingestion activity pica is more the choice of a disordered mind than a response to a biochemical deficiency ,25,0.8,0.9321680068969727
+0,0,The mouthing activity of children is at least in part a learning behavior and may not represent a pica ,25,0.8,0.2149093747138977
+1,0,Children seem to derive as much tactile information from inserting objects into the mouth as touching with the fingers ,25,0.8,0.9691423177719116
+0,0,This discovery process  unfortunately  can have adverse medical consequences  highlighted by the problem of lead poisoning ,25,0.8,0.037211835384368896
+1,0,Ingestion of paint chips or plaster may originate as an innocent mouthing activity but develop into a true pica  perhaps due to the semisweet taste of lead based paints ,25,0.8,0.9588252305984497
+0,0,Some investigators believe that a pica in childhood has the same significance as in adults ,25,0.8,0.005309343338012695
+1,0,They point to the fact that many milk fed children become iron deficient and contend that compulsive drinking of milk or eating of paint chips  dirt  and so on  reflects the same poorly understood craving as in adults ,25,0.8,0.9825010299682617
+0,0,A third important circumstance in which a pica is found is the compulsive ingestion of dirt or clay  as practiced in the rural South or by migrants from that region ,25,0.8,0.4228844940662384
+1,0,This geophagia seems to have originated as an ethnic cultural habit passed down from mother to child ,25,0.8,0.9975674152374268
+0,0,Children of both sexes learn the behavior as toddlers and generally outgrow the activity a few years later ,25,0.8,1.9731243810383603e-05
+0,0,Daughters  however  are re introduced to the behavior years later  often during a first pregnancy ,25,0.8,0.036174654960632324
+1,0,Pregnancy is a time when many women are iron deficient  but the behavior seems to be widespread enough for a deficiency not to be the complete explanation ,25,0.8,0.9571709036827087
+0,0,Geophagia manages to persist even with migration ,25,0.8,0.005712717771530151
+0,0,Older black women in the Midwest recall being sent shoeboxes filled with clay from relatives in the deep South ,25,0.8,0.7888310551643372
+1,0,In fact  clay from certain sites was highly regarded for its taste  and clay from substitute sites was quickly spotted ,25,0.8,0.8538930416107178
+0,0,In more recent years  geophagia may have been replaced by amylophagia starch eating  which is considered more sanitary ,25,0.8,1.7343219951726496e-05
+1,0,Although many women who have this pica may be nutritionally deficient  the bulk of the evidence suggests that an ethnic cultural practice is the explanation Vermeer and Frate ,25,0.8,0.9996241927146912
+1,0,The majority of pica seen by physicians in Western countries can be traced to iron deficiency  with or without anemia ,25,0.8,0.9984956979751587
+0,0,In fact  a pica may be detected in as many as  of all persons with iron deficiency ,25,0.8,0.0725659728050232
+1,0,Crosby  is the most prominent proponent of the idea that a pica is a manifestation of a lack of iron stores and not of the anemia itself ,25,0.8,0.9293642044067383
+0,0,He points out that pica is not common in other anemias ,25,0.8,0.0006977319717407227
+0,0,The pica also disappears  in most cases  once iron replacement begins and long before the anemia is corrected ,25,0.8,0.11504143476486206
+0,0,He wryly notes that in most cases the choice of material ingested rarely is a good source of the missing mineral ,25,0.8,0.6272290945053101
+0,0,For a pica to occur  it is not important how the iron deficiency develops ,25,0.8,0.0016994774341583252
+1,0,Hence  a pica may be seen whether the person has a chronic gastrointestinal bleed  menorrhagia  inadequate diet  or any of the other causes of iron loss ,25,0.8,0.9966750741004944
+0,0,There is no good explanation  however  for why an eating behavior is a manifestation of iron deficiency ,25,0.8,0.7832278609275818
+1,0,It is true that the mineral is found in some important enzyme systems involving taste and digestion ,25,0.8,0.9900178909301758
+0,0,In some way  perhaps deficiency of iron in those enzymes could induce an iron seeking behavior ,25,0.8,1.4464652849710546e-05
+1,0,An entirely different explanation relates to the observation that certain lesions of the brain may result in hyperphagia ,25,0.8,0.9846582412719727
+0,0,It has been noted that those sites are high in iron content ,25,0.8,3.573183494154364e-05
+0,0,The extrapolation  then  is that lack of iron in those sites induces hyperphagia again  iron seeking  of which the pica is a manifestation ,25,0.8,0.40411972999572754
+0,0,This hypothesis has never been put to experimental trial ,25,0.8,0.0023422837257385254
+0,0,Pica is not necessarily a manifestation of iron deficiency only ,25,0.8,0.6079151034355164
+0,0,Zinc deficiency has also been noted as a cause of pica  and it is not unreasonable to suspect that other minerals may be implicated ,25,0.8,0.014932304620742798
+1,1,These in vitro teststhe activated partial thromboplastin time aPTT  prothrombin time PT  and thrombin time TTmeasure the time elapsed from activation of the coagulation cascade Figure ,25,0.8,0.9259200096130371
+0,0,at different points to the generation of fibrin ,25,0.8,0.09928330779075623
+0,0,The aPTT measures the time necessary to generate fibrin from initiation of the intrinsic pathway Figure ,25,0.8,0.26052767038345337
+1,0,Activation of factor XII is accomplished with an external agent e g   kaolin capable of activating factor XII without activating factor VII ,25,0.8,0.8701721429824829
+0,0,Since platelet factors are necessary for the cascade to function normally  the test is performed in the presence of a phospholipid emulsion that takes the place of these factors ,25,0.8,0.06061527132987976
+1,0,The classic partial thromboplastin time depends on contact with a glass tube for activation ,25,0.8,0.9940893650054932
+0,0,Since this is considered a difficult variable to control  the activated test uses an external source of activation ,25,0.8,0.004000663757324219
+0,0,Citrated plasma  an activating agent  and phospholipid are added together and incubated at °C ,25,0.8,0.002176225185394287
+1,0,Calcium is added  and the time necessary for the clumping of kaolin is measured ,25,0.8,0.960157036781311
+0,0,The normal time is usually reported as less than  to  seconds depending on the technique used ,25,0.8,0.00609859824180603
+0,0,In fact  there is a normal range of about  seconds e g    to   and decreased values short may also be abnormal ,25,0.8,0.0001430213451385498
+1,0,This test is abnormal in the presence of reduced quantities of factors XII  IX  XI  VIII  X  V  prothrombin  and fibrinogen all integral parts of the intrinsic and common pathway ,25,0.8,0.999975323677063
+0,0,It is usually prolonged if a patient has less than approximately  normal activity ,25,0.8,0.0018107593059539795
+0,0,It can also be abnormal in the presence of a circulating inhibitor to any of the intrinsic pathway factors ,25,0.8,0.0028412938117980957
+1,0,The differentiation of inhibitors from factor depletion is important and can best be accomplished by a mixing study in which patient and normal plasma are combined in a   ratio and the test is repeated on the mixed sample ,25,0.8,0.998132586479187
+0,0,If the abnormal value is corrected completely  the problem is factor deficiency ,25,0.8,0.013106435537338257
+0,0,If the result does not change or the abnormality is corrected only partially  an inhibitor is present ,25,0.8,0.021336406469345093
+0,0,This difference stems from the above mentioned fact that the aPTT will be normal in the presence of  normal activity ,25,0.8,0.0506134033203125
+1,0,The aPTT is a good screening test for inherited or acquired factor deficiencies ,25,0.8,0.9930746555328369
+1,0,Inherited disorders including classic hemophilia A factor VIII deficiency and hemophilia B factor IX deficiency  or Christmas disease are well known diseases in which the aPTT is prolonged ,25,0.8,0.9952206611633301
+0,0,Other intrinsic and common pathway factors may also be congenitally absent ,25,0.8,3.248995926696807e-05
+1,0,These conditions are rare but have been described for all factors ,25,0.8,0.9564543962478638
+0,0,A number of kindreds with abnormalities of factor XII activation have been described ,25,0.8,0.04911622405052185
+0,0,They are usually associated with a prolonged aPTT without clinical signs of bleeding ,25,0.8,0.0004366636276245117
+0,0,Acquired factor deficiency is common ,25,0.8,0.32964372634887695
+0,0,Vitamin K deficiency  liver dysfunction  and iatrogenic anticoagulation with warfarin are most common ,25,0.8,0.008377879858016968
+0,0,Factor depletion may also occur in the setting of disseminated intravascular coagulation DIC  prolonged bleeding  and massive transfusion ,25,0.8,0.05877190828323364
+1,0,A prolonged aPTT that cannot be completely normalized with the addition of normal plasma can be explained only by the presence of a circulating inhibitor of coagulation ,25,0.8,0.9121697545051575
+0,0,The presence of these inhibitors is almost always acquired  and their exact nature is not always apparent ,25,0.8,0.365965336561203
+0,0,From a clinical point of view  the most common inhibitors should be considered antithrombins ,25,0.8,0.0007654726505279541
+0,0,These compounds inhibit the activity of thrombin on the conversion of fibrinogen to fibrin Figure ,25,0.8,0.0007071495056152344
+1,0,The two most common inhibitors are heparin  which acts through the naturally occurring protein antithrombin III AT III  and fibrin degradation products FDP  formed by the action of plasmin on the fibrin clot and usually present in elevated concentrations in DIC and primary fibrinolysis ,25,0.8,0.9927887320518494
+0,0,Other inhibitors appear to be antibodies ,25,0.8,1.0974938646768351e-07
+1,0,The easiest to understand is the antibody against factor VIII in patients with hemophilia A treated with factor VIII concentrate ,25,0.8,0.9964032173156738
+1,0,Inhibitors against other factors have been described with a variety of diseases that follow a variable course ,25,0.8,0.9701429605484009
+0,0,When characterized  they have been immunoglobulins ,25,0.8,0.00010545597615418956
+0,0,A particular problem may be seen in patients suffering from systemic lupus erythematosus ,25,0.8,0.008433312177658081
+0,0,These patients may present with a prolonged aPTT without evidence of bleeding ,25,0.8,0.00017261505126953125
+0,0,Some present with thrombosis ,25,0.8,5.352348307496868e-05
+1,0,The abnormality cannot be corrected with normal plasma and has been referred to as the lupus anticoagulant ,25,0.8,0.9973937273025513
+0,0,This phenomenon does not represent an in vivo problem with the coagulation cascade ,25,0.8,3.821843711193651e-05
+0,0,Rather  it is a laboratory abnormality caused by the presence of a serum constituent that interferes with the in vitro partial thromboplastin test ,25,0.8,0.5060825347900391
+0,0,Occasionally the reported value of the aPTT will be lower than normal ,25,0.8,1.8180635379394516e-05
+0,0,This shortened time may reflect the presence of increased levels of activated factors in context of a hypercoagulable state ,25,0.8,0.0014168024063110352
+0,0,It is seen in some patients in the early stages of DIC but should not be considered diagnostic for that entity ,25,0.8,0.24738112092018127
+1,0,The PT measures the time necessary to generate fibrin after activation of factor VII ,25,0.8,0.9431260228157043
+1,0,It measures the integrity of the extrinsic and common pathways factors VII  V  X  prothrombin  and fibrinogen ,25,0.8,0.9747332334518433
+1,0,Citrated plasma and an activating agent usually thromboplastin extracted from animal brain are incubated at °C ,25,0.8,0.9831534624099731
+0,0,The plasma is recalcified and the time is measured until fibrin filaments are observed ,25,0.8,0.09121426939964294
+0,0,Each laboratory has its own normal value  usually between  and  seconds ,25,0.8,0.0301075279712677
+0,0,As with the interpretation of a prolonged aPTT  a prolonged PT may reflect either factor deficiency or a circulating inhibitor of coagulation ,25,0.8,0.01290518045425415
+0,0,The distinction is made by repeating the test after a   mix with normal plasma ,25,0.8,0.6445298790931702
+0,0,The test is more sensitive than the aPTT for deficient levels of factors  and a relatively small drop in factor VII levels may prolong the PT ,25,0.8,8.705749496584758e-05
+1,0,Inherited deficiency of factor VII is a rare bleeding disorder characterized by a prolonged PT and a normal aPTT ,25,0.8,0.9999955892562866
+0,0,The PT completely corrects when mixed with normal plasma ,25,0.8,0.0007900893688201904
+1,0,Acquired deficiencies are usually related to liver disease  warfarin therapy  or depletion secondary to consumptive coagulopathy  severe bleeding  or massive transfusion ,25,0.8,0.9990825653076172
+0,0,Circulating inhibitors are most often directed at factor X or thrombin ,25,0.8,0.3799898028373718
+0,0,Most common are heparin or products of fibrinolysis ,25,0.8,0.1455363929271698
+0,0,In their presence the prolonged PT cannot be completely corrected to normal in a   mixing study ,25,0.8,0.022372007369995117
+1,0,This test measures the time necessary to drive the reaction of fibrinogen to fibrin in the presence of thrombin ,25,0.8,0.8489559888839722
+0,0,It measures the integrity of this reaction and isolates an abnormality to either a decrease in normal fibrinogen or an inhibitor to its activation ,25,0.8,0.6674971580505371
+0,0,Citrated plasma is incubated at °C and thrombin is added to the solution ,25,0.8,0.05231645703315735
+1,0,Time is measured from the addition of thrombin to the generation of fibrin filaments ,25,0.8,0.9944618940353394
+0,0,Calcium is unnecessary ,25,0.8,0.0002624094486236572
+1,0,Abnormalities can be explained in one of three ways  deficient fibrinogen <  mgdl  abnormal fibrinogen  or an inhibitor to the reaction ,25,0.8,0.9557824730873108
+0,0,As with other tests of the coagulation cascade  if a   mixing study normalizes the prolonged time  one is dealing with factor deficiency ,25,0.8,0.3822043240070343
+0,0,As it pertains to fibrinogen  however  one must distinguish a decrease in normal fibrinogen from the production of an abnormal fibrinogen dysfibrinogenemia ,25,0.8,0.5459948778152466
+1,0,Acquired deficiency of fibrinogen is usually due to a consumptive coagulopathy or  less often  severe liver disease ,25,0.8,0.8907256722450256
+1,0,Hereditary deficiencies exist  but with variable clinical presentations ,25,0.8,0.8025863170623779
+1,0,Afibrinogenemia is an often fatal childhood condition ,25,0.8,0.9974707365036011
+0,0,Abnormal fibrinogen dysfibrinogenemia can be acquired or inherited ,25,0.8,0.1805342435836792
+0,0,The acquired form is usually found in association with severe liver disease  but has been reported in other diseases ,25,0.8,6.816935638198629e-05
+1,0,The congenital form is rare  usually autosomal dominant ,25,0.8,0.9480013251304626
+1,0,A discordance between immunologic and physiologic measurements of fibrinogen is the key to diagnosis ,25,0.8,0.9958311319351196
+0,0,The most common acquired inhibitors of this reaction are heparin and fibrin degradation products FDP ,25,0.8,0.002706289291381836
+0,0,The effect of heparin can be eliminated by catalyzing the reaction with reptilase  which  unlike thrombin  is insensitive to heparin ,25,0.8,0.00012005768076051027
+1,0,FDP are commonly seen in consumptive coagulopathies and primary fibrinolytic states ,25,0.8,0.986107349395752
+1,1,The syndromes of primary neurologic disease with autonomic insufficiency require very careful evaluation and differentiation ,25,0.8,0.861544668674469
+1,0,In progressive autonomic failure Bradbury Eggleston syndrome or idiopathic orthostatic hypotension the symptoms of autonomic failure are an early manifestation ,25,0.8,0.9936739802360535
+1,0,The history at the time the patient first seeks care is of postural syncope ,25,0.8,0.8494449853897095
+0,0,It may also include genitourinary or bowel symptoms  but these usually are revealed in the review of systems rather than offered spontaneously by the patient ,25,0.8,0.0007212162017822266
+0,0,This syndrome  although progressive  develops slowly ,25,0.8,0.00048473477363586426
+0,0,The patient can live for many years in relative comfort once effective blood pressure control is achieved ,25,0.8,0.03850308060646057
+0,0,Conversely  the Shy Drager syndrome is a more rapidly progressive illness and is much more problematic in its management ,25,0.8,0.26473841071128845
+0,0,The dysautonomic symptoms usually follow the appearance of signs of other aspects of neurologic degeneration ,25,0.8,0.3784691393375397
+0,0,The Parkinson like symptoms common in this syndrome are particularly difficult to manage and may actually make management of the postural dizziness more difficult ,25,0.8,0.17977949976921082
+0,0,The drug l dopa  for example  may be useful for the control of rigidity  but is one that can cause orthostatic hypotension ,25,0.8,0.04839545488357544
+0,0,In addition  there appears to be more than one form of neurologic degenerative illness present in the cluster of patients who have been diagnosed as having Shy Drager syndrome ,25,0.8,0.7441238164901733
+0,0,While they all ultimately develop dysautonomia  some have this only in conjunction with Parkinson like abnormalities consistent with olivo ponto cerebellar degeneration ,25,0.8,0.00015863776206970215
+0,0,Others may have different distributions of neurologic abnormalities including both sensory system abnormalities and voluntary motor dysfunction ,25,0.8,0.7463194131851196

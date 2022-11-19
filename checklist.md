@@ -1,0 +1,12 @@
+- [ ] Try out BERTopic (https://github.com/MaartenGr/BERTopic)
+    - Get the topics, convert each word to vector using common word embedding model (GloVe), then use those discontiguous vectors as sentence representations.
+    - BERTopic will go through all the documents given and provide the top n topics. This can then be used to isolate important pieces of the sentence before feeding into the system. Using this system along with sentence-transformers can be combined instead of LDA+BERT.
+- [x] For BERT LDA, have a sliding window of k/2 and get the avg diff score to use as the delta. This will create a local delta that adapts.
+- [ ] Create library to generate BERTopic vectors, similar to those of LDA BERT vectors. Test similarly to LDA BERT vectors.
+- [ ] Research Transformers and see how they can be useful.
+
+- [ ] NLP Augmentation
+- [ ] Increased contextuality window
+- [ ] Transfer Learning
+- [ ] Multi-Modal approach, utilizing some NER
+    - For example, we find that objects such as people, places, and other distinct nouns hold large importance within sentences. If these nouns can be used to amplify the importance of some pieces within a sentence, it could disencourage the system from looking into non-related nouns within subsequent or previous sentences.
